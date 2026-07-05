@@ -1,0 +1,567 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meal Prep — pick recipes, get a Costco list</title>
+<style>
+  /* ---------- Theme ---------- */
+  :root {
+    --bg: #faf7f2;
+    --card: #ffffff;
+    --ink: #26221d;
+    --muted: #7a7267;
+    --line: #e7e0d6;
+    --accent: #b34a2f;        /* terracotta — buttons and highlights */
+    --accent-soft: #f6e4dd;
+    --green: #3d6b4f;         /* the "good cold" badge */
+    --green-soft: #e2eee6;
+    --amber: #8a6100;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17181c;
+      --card: #1f2126;
+      --ink: #eae6df;
+      --muted: #9a938a;
+      --line: #33363d;
+      --accent: #e0704f;
+      --accent-soft: #3a2a24;
+      --green: #7db894;
+      --green-soft: #24352b;
+      --amber: #d9a53a;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 780px; margin: 0 auto; padding: 24px 16px 140px; }
+
+  header.top h1 { font-size: 26px; margin: 0 0 4px; }
+  header.top p { margin: 0 0 20px; color: var(--muted); }
+
+  /* ---------- Target inputs (how many meals this week) ---------- */
+  .targets {
+    display: flex; gap: 10px; flex-wrap: wrap;
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 12px; padding: 12px 14px; margin-bottom: 22px;
+  }
+  .targets label { display: flex; flex-direction: column; gap: 2px; font-size: 13px; color: var(--muted); flex: 1; min-width: 90px; }
+  .targets input {
+    font: inherit; font-size: 18px; font-weight: 600; color: var(--ink);
+    background: transparent; border: 1px solid var(--line); border-radius: 8px;
+    padding: 6px 10px; width: 100%;
+  }
+
+  /* ---------- Recipe sections and cards ---------- */
+  section.meal { margin-bottom: 26px; }
+  .meal-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 8px; }
+  .meal-head h2 { font-size: 19px; margin: 0; }
+  .meal-head .tally { font-size: 13px; color: var(--muted); }
+  .meal-head .tally.over { color: var(--amber); }
+  .meal-head .tally.met { color: var(--green); }
+
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 12px 14px; margin-bottom: 8px;
+    display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center;
+  }
+  .card.selected { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+  .card input[type=checkbox] { width: 20px; height: 20px; accent-color: var(--accent); cursor: pointer; }
+  .card .body { cursor: pointer; min-width: 0; }
+  .card .name { font-weight: 600; }
+  .card .meta { font-size: 12.5px; color: var(--muted); margin-top: 2px; }
+  .badge {
+    display: inline-block; font-size: 11px; font-weight: 600;
+    background: var(--green-soft); color: var(--green);
+    border-radius: 999px; padding: 1px 8px; margin-left: 6px; vertical-align: 1px;
+  }
+  .servings { display: flex; align-items: center; gap: 6px; visibility: hidden; }
+  .card.selected .servings { visibility: visible; }
+  .servings input {
+    width: 52px; font: inherit; font-weight: 600; text-align: center; color: var(--ink);
+    background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: 5px 4px;
+  }
+  .servings .lbl { font-size: 11px; color: var(--muted); }
+
+  /* ---------- Sticky action bar ---------- */
+  .actionbar {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    background: var(--card); border-top: 1px solid var(--line);
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+  }
+  .actionbar .inner { max-width: 780px; margin: 0 auto; display: flex; gap: 12px; align-items: center; }
+  .actionbar .summary { font-size: 13px; color: var(--muted); flex: 1; }
+  button.primary {
+    font: inherit; font-weight: 700; color: #fff; background: var(--accent);
+    border: none; border-radius: 10px; padding: 12px 20px; cursor: pointer;
+  }
+  button.ghost {
+    font: inherit; font-size: 13px; color: var(--muted); background: transparent;
+    border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; cursor: pointer;
+  }
+
+  /* ---------- Shopping list ---------- */
+  #list { margin-top: 28px; }
+  #list h2 { font-size: 20px; }
+  #list .subtitle { color: var(--muted); font-size: 13.5px; margin-top: -6px; }
+  .group { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 6px 14px 10px; margin: 14px 0; }
+  .group h3 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 10px 0 4px; }
+  .item { display: flex; gap: 10px; padding: 7px 0; border-top: 1px solid var(--line); align-items: baseline; }
+  .item:first-of-type { border-top: none; }
+  .item input[type=checkbox] { accent-color: var(--green); width: 17px; height: 17px; position: relative; top: 2px; }
+  .item.done .txt { text-decoration: line-through; opacity: 0.45; }
+  .item .qty { font-weight: 700; white-space: nowrap; }
+  .item .note, .item .src { display: block; font-size: 12px; color: var(--muted); }
+  .listactions { display: flex; gap: 10px; margin: 14px 0; }
+
+  /* ---------- Recipe modal ---------- */
+  dialog {
+    max-width: 680px; width: calc(100vw - 32px); max-height: 85vh;
+    border: 1px solid var(--line); border-radius: 14px; padding: 22px 24px;
+    background: var(--card); color: var(--ink);
+  }
+  dialog::backdrop { background: rgba(0,0,0,0.45); }
+  dialog h2 { margin-top: 0; }
+  dialog .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  dialog .chip { font-size: 12px; background: var(--accent-soft); color: var(--ink); border-radius: 999px; padding: 2px 10px; }
+  dialog h3 { font-size: 16px; margin: 18px 0 6px; }
+  dialog h4 { font-size: 13.5px; color: var(--muted); margin: 12px 0 4px; }
+  dialog li { margin: 4px 0; }
+  dialog .ing-note { color: var(--muted); }
+  dialog .closer { float: right; }
+
+  .error {
+    background: var(--accent-soft); border: 1px solid var(--accent);
+    border-radius: 12px; padding: 14px 16px; font-size: 14.5px;
+  }
+
+  @media print {
+    header.top, .targets, section.meal, .actionbar, .listactions { display: none; }
+    body { background: #fff; color: #000; }
+    .group { border: none; padding: 0; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="top">
+    <h1>Meal Prep</h1>
+    <p>Check what you want to cook this Sunday, set how many meals you need, and generate the shopping list.</p>
+  </header>
+
+  <!-- How many of each meal this week. Defaults: Mikey's 5 burrito breakfasts,
+       and 2 people times 5 days for lunch and dinner. -->
+  <div class="targets">
+    <label>Breakfasts <input id="t-breakfast" type="number" min="0" max="40" value="5"></label>
+    <label>Lunches <input id="t-lunch" type="number" min="0" max="40" value="10"></label>
+    <label>Dinners <input id="t-dinner" type="number" min="0" max="40" value="10"></label>
+  </div>
+
+  <div id="recipes"><p style="color:var(--muted)">Loading recipes…</p></div>
+
+  <div id="list"></div>
+</main>
+
+<div class="actionbar">
+  <div class="inner">
+    <div class="summary" id="barSummary">Nothing selected yet</div>
+    <button class="ghost" id="clearBtn" type="button">Clear</button>
+    <button class="primary" id="genBtn" type="button">Make my shopping list</button>
+  </div>
+</div>
+
+<dialog id="modal"></dialog>
+
+<script>
+/* =========================================================================
+   Meal-prep shopping list app.
+   Reads every markdown file listed in recipes/manifest.json, parses the
+   frontmatter and the pipe-delimited ingredient lines, and builds a
+   scaled, aggregated shopping list. No libraries, no build step: editing
+   a recipe file changes the app the next time the page loads.
+   The ingredient-line format is documented in docs/recipe-format.md.
+   ========================================================================= */
+
+const MEALS = ["breakfast", "lunch", "dinner"];
+
+/* Where each category appears in the list, and its human label
+   (ordered roughly like a walk through Costco). */
+const CATEGORY_ORDER = [
+  ["produce",     "Produce"],
+  ["meat",        "Meat and the deli case"],
+  ["dairy-eggs",  "Dairy, eggs, and the fridge case"],
+  ["bakery",      "Bakery"],
+  ["frozen",      "Frozen"],
+  ["pantry",      "Pantry and dry goods"],
+  ["other-store", "Probably a regular grocery store, not Costco"],
+];
+
+/* Units where you cannot buy a fraction, so totals round UP.
+   Weights and volumes keep their decimals. */
+const WHOLE_UNITS = new Set(["", "can", "jar", "bunch", "head", "stalk", "rib",
+                             "pint", "slice", "clove"]);
+
+/* Map plural spellings to one canonical unit so "2 cans" and "1 can"
+   add together, plus how to display each unit for a given quantity. */
+const UNIT_SINGULAR = { cans:"can", jars:"jar", bunches:"bunch", heads:"head",
+  stalks:"stalk", ribs:"rib", pints:"pint", slices:"slice", cloves:"clove",
+  cups:"cup", "tbsp":"tbsp", "tsp":"tsp" };
+const UNIT_PLURAL = { can:"cans", jar:"jars", bunch:"bunches", head:"heads",
+  stalk:"stalks", rib:"ribs", pint:"pints", slice:"slices", clove:"cloves",
+  cup:"cups" };
+
+let recipes = [];                       // every parsed recipe
+let state = { targets: { breakfast: 5, lunch: 10, dinner: 10 },
+              selected: {} };           // selected: { path: servings }
+
+/* ---------- Parsing ---------- */
+
+function parseQty(text) {
+  // Handles "2", "2.5", and "1/2".
+  text = text.trim();
+  if (text.includes("/")) {
+    const [a, b] = text.split("/").map(Number);
+    if (b) return a / b;
+  }
+  const n = Number(text);
+  return isNaN(n) ? null : n;
+}
+
+function parseRecipe(path, md) {
+  const r = { path, raw: md, ingredients: [], staples: [], front: {} };
+
+  // Frontmatter sits between the first two "---" lines.
+  const fm = md.match(/^---\n([\s\S]*?)\n---/);
+  if (fm) {
+    for (const line of fm[1].split("\n")) {
+      const i = line.indexOf(":");
+      if (i > 0) r.front[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+    }
+  }
+  r.name   = r.front.name || path;
+  r.meal   = r.front.meal || "dinner";
+  r.serves = Number(r.front.serves) || 4;
+  r.body   = fm ? md.slice(fm[0].length).trim() : md;
+
+  // Walk the body. Pipe-delimited bullets under "## Ingredients" are buy
+  // items; plain bullets under "### Pantry staples" are check-the-pantry.
+  let inIngredients = false, inStaples = false;
+  for (const line of r.body.split("\n")) {
+    if (/^##\s/.test(line)) {
+      inIngredients = /^##\s+Ingredients/i.test(line);
+      inStaples = false;
+      continue;
+    }
+    if (/^###\s+Pantry staples/i.test(line)) { inStaples = true; continue; }
+    if (!line.startsWith("- ")) continue;
+
+    if (inIngredients && line.includes("|")) {
+      const parts = line.slice(2).split("|").map(s => s.trim());
+      const m = parts[0].match(/^([\d.\/]+)\s*(.*)$/);
+      if (!m) continue;
+      r.ingredients.push({
+        qty: parseQty(m[1]),
+        unit: UNIT_SINGULAR[m[2]] || m[2],   // canonical unit
+        item: parts[1] || "",
+        category: parts[2] || "pantry",
+        note: parts[3] || "",
+      });
+    } else if (inIngredients && inStaples) {
+      r.staples.push(line.slice(2).trim());
+    }
+  }
+  return r;
+}
+
+/* ---------- Loading ---------- */
+
+async function load() {
+  try {
+    const manifest = await (await fetch("recipes/manifest.json")).json();
+    const texts = await Promise.all(manifest.recipes.map(async p => {
+      const res = await fetch(p);
+      if (!res.ok) throw new Error("Could not load " + p);
+      return [p, await res.text()];
+    }));
+    recipes = texts.map(([p, md]) => parseRecipe(p, md));
+    restoreState();
+    renderRecipes();
+  } catch (err) {
+    document.getElementById("recipes").innerHTML =
+      `<div class="error"><strong>Couldn't load the recipes.</strong><br>
+       This page reads the recipe files over HTTP, so opening index.html by
+       double-clicking won't work. Use the GitHub Pages link, or from the repo
+       folder run <code>python3 -m http.server 8123</code> and open
+       <code>http://localhost:8123</code>. (${err.message})</div>`;
+  }
+}
+
+/* ---------- State (saved to localStorage so the picks survive reloads) ---------- */
+
+function saveState() { localStorage.setItem("meal-prep-v1", JSON.stringify(state)); }
+function restoreState() {
+  try {
+    const saved = JSON.parse(localStorage.getItem("meal-prep-v1"));
+    if (saved && saved.targets && saved.selected) {
+      // Drop selections for recipes that no longer exist.
+      for (const p of Object.keys(saved.selected))
+        if (!recipes.some(r => r.path === p)) delete saved.selected[p];
+      state = saved;
+    }
+  } catch (e) { /* fresh start is fine */ }
+  for (const m of MEALS) document.getElementById("t-" + m).value = state.targets[m];
+}
+
+/* When the selection or a target changes, deal the target servings evenly
+   across the checked recipes in that meal (user can still edit each). */
+function redistribute(meal) {
+  const chosen = recipes.filter(r => r.meal === meal && r.path in state.selected);
+  if (!chosen.length) return;
+  const target = state.targets[meal];
+  const base = Math.floor(target / chosen.length);
+  let leftover = target - base * chosen.length;
+  for (const r of chosen) {
+    state.selected[r.path] = base + (leftover > 0 ? 1 : 0);
+    if (leftover > 0) leftover--;
+  }
+}
+
+/* ---------- Rendering the pickers ---------- */
+
+function esc(s) { return s.replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c])); }
+
+function renderRecipes() {
+  const root = document.getElementById("recipes");
+  root.innerHTML = "";
+  for (const meal of MEALS) {
+    const group = recipes.filter(r => r.meal === meal);
+    if (!group.length) continue;
+
+    const sec = document.createElement("section");
+    sec.className = "meal";
+    const planned = group.reduce((n, r) => n + (state.selected[r.path] || 0), 0);
+    const target = state.targets[meal];
+    const cls = planned === 0 ? "" : planned >= target ? (planned > target + 2 ? "over" : "met") : "";
+    sec.innerHTML = `<div class="meal-head">
+        <h2>${meal[0].toUpperCase() + meal.slice(1)}</h2>
+        <span class="tally ${cls}">${planned} of ${target} servings planned</span>
+      </div>`;
+
+    for (const r of group) {
+      const sel = r.path in state.selected;
+      const card = document.createElement("div");
+      card.className = "card" + (sel ? " selected" : "");
+      const coldBadge = /^y/i.test(r.front.good_cold || "") ? `<span class="badge">good cold</span>` : "";
+      card.innerHTML = `
+        <input type="checkbox" ${sel ? "checked" : ""} aria-label="select ${esc(r.name)}">
+        <div class="body">
+          <div class="name">${esc(r.name)}${coldBadge}</div>
+          <div class="meta">${esc(r.front.sunday_active || "")} on Sunday · ${esc(r.front.weeknight || "")}</div>
+        </div>
+        <div class="servings">
+          <input type="number" min="1" max="30" value="${state.selected[r.path] || r.serves}" aria-label="servings">
+          <span class="lbl">servings</span>
+        </div>`;
+
+      card.querySelector("input[type=checkbox]").addEventListener("change", e => {
+        if (e.target.checked) { state.selected[r.path] = r.serves; redistribute(meal); }
+        else delete state.selected[r.path];
+        saveState(); renderRecipes();
+      });
+      card.querySelector(".servings input").addEventListener("change", e => {
+        state.selected[r.path] = Math.max(1, Number(e.target.value) || r.serves);
+        saveState(); renderRecipes();
+      });
+      card.querySelector(".body").addEventListener("click", () => showRecipe(r));
+      sec.appendChild(card);
+    }
+    root.appendChild(sec);
+  }
+  const count = Object.keys(state.selected).length;
+  document.getElementById("barSummary").textContent =
+    count ? `${count} recipe${count > 1 ? "s" : ""} selected` : "Nothing selected yet";
+}
+
+/* ---------- The shopping list ---------- */
+
+function fmtQty(q) {
+  // Show at most 2 decimals and trim trailing zeros: 2, 2.5, 0.75.
+  return String(Math.round(q * 100) / 100);
+}
+
+function buildList() {
+  // Aggregate every ingredient of every selected recipe, scaled by
+  // (servings you asked for) / (servings the recipe is written for).
+  const agg = new Map();     // key: item|unit  → combined entry
+  const staples = new Map(); // staple text → Set of recipe names
+
+  for (const r of recipes) {
+    if (!(r.path in state.selected)) continue;
+    const factor = state.selected[r.path] / r.serves;
+    for (const ing of r.ingredients) {
+      const key = ing.item.toLowerCase() + "|" + ing.unit.toLowerCase();
+      if (!agg.has(key)) agg.set(key, { ...ing, qty: 0, notes: [], sources: [] });
+      const entry = agg.get(key);
+      entry.qty += ing.qty * factor;
+      entry.sources.push(r.name);
+      if (ing.note) entry.notes.push(ing.note);
+    }
+    for (const s of r.staples) {
+      if (!staples.has(s)) staples.set(s, new Set());
+      staples.get(s).add(r.name);
+    }
+  }
+  return { agg, staples };
+}
+
+function displayQty(entry) {
+  // Round up units you can't buy halves of (cans, bunches, heads, counts…).
+  let q = entry.qty;
+  if (WHOLE_UNITS.has(entry.unit)) q = Math.ceil(q - 1e-9);
+  let unit = entry.unit;
+  if (q !== 1 && UNIT_PLURAL[unit]) unit = UNIT_PLURAL[unit];
+  let item = entry.item;
+  // "1 yellow onions" reads badly; drop a plural s on unitless singles.
+  if (q === 1 && unit === "" && /[^s]s$/.test(item)) item = item.slice(0, -1);
+  return { text: `${fmtQty(q)}${unit ? " " + unit : ""}`, item };
+}
+
+function renderList() {
+  const { agg, staples } = buildList();
+  const root = document.getElementById("list");
+  if (!agg.size) {
+    root.innerHTML = `<div class="error">Pick at least one recipe first.</div>`;
+    root.scrollIntoView({ behavior: "smooth" });
+    return;
+  }
+
+  const chosen = recipes.filter(r => r.path in state.selected)
+    .map(r => `${esc(r.name)} (${state.selected[r.path]})`).join(", ");
+
+  let html = `<h2>Shopping list</h2>
+    <p class="subtitle">${chosen}. Quantities rounded up where halves aren't for sale. Tap to cross things off.</p>
+    <div class="listactions">
+      <button class="ghost" id="copyBtn" type="button">Copy as text</button>
+      <button class="ghost" onclick="window.print()" type="button">Print</button>
+    </div>`;
+
+  for (const [cat, label] of CATEGORY_ORDER) {
+    const items = [...agg.values()].filter(e => e.category === cat)
+      .sort((a, b) => a.item.localeCompare(b.item));
+    if (!items.length) continue;
+    html += `<div class="group"><h3>${label}</h3>`;
+    for (const e of items) {
+      const d = displayQty(e);
+      const notes = [...new Set(e.notes)].map(n => `<span class="note">${esc(n)}</span>`).join("");
+      const src = `<span class="src">for ${[...new Set(e.sources)].map(esc).join(", ")}</span>`;
+      html += `<label class="item"><input type="checkbox">
+        <span class="txt"><span class="qty">${d.text}</span> ${esc(d.item)}${notes}${src}</span></label>`;
+    }
+    html += `</div>`;
+  }
+
+  if (staples.size) {
+    html += `<div class="group"><h3>Check the pantry before you go</h3>`;
+    for (const [s, who] of [...staples.entries()].sort((a, b) => a[0].localeCompare(b[0]))) {
+      html += `<label class="item"><input type="checkbox">
+        <span class="txt">${esc(s)}<span class="src">for ${[...who].map(esc).join(", ")}</span></span></label>`;
+    }
+    html += `</div>`;
+  }
+
+  root.innerHTML = html;
+  root.querySelectorAll(".item input").forEach(cb =>
+    cb.addEventListener("change", () => cb.closest(".item").classList.toggle("done", cb.checked)));
+  document.getElementById("copyBtn").addEventListener("click", copyList);
+  root.scrollIntoView({ behavior: "smooth" });
+}
+
+function copyList() {
+  const { agg, staples } = buildList();
+  const lines = ["COSTCO LIST — " + new Date().toLocaleDateString()];
+  for (const [cat, label] of CATEGORY_ORDER) {
+    const items = [...agg.values()].filter(e => e.category === cat)
+      .sort((a, b) => a.item.localeCompare(b.item));
+    if (!items.length) continue;
+    lines.push("", label.toUpperCase());
+    for (const e of items) {
+      const d = displayQty(e);
+      lines.push(`- ${d.text} ${d.item}`);
+    }
+  }
+  if (staples.size) {
+    lines.push("", "CHECK THE PANTRY");
+    for (const s of [...staples.keys()].sort()) lines.push(`- ${s}`);
+  }
+  navigator.clipboard.writeText(lines.join("\n")).then(() => {
+    const b = document.getElementById("copyBtn");
+    b.textContent = "Copied";
+    setTimeout(() => (b.textContent = "Copy as text"), 1500);
+  });
+}
+
+/* ---------- Recipe modal (renders the markdown, our dialect only) ---------- */
+
+function showRecipe(r) {
+  const dlg = document.getElementById("modal");
+  const chips = ["serves " + r.serves, r.front.sunday_active && "Sunday: " + r.front.sunday_active,
+    r.front.weeknight && "weeknight: " + r.front.weeknight, r.front.calories, r.front.protein,
+    r.front.tags].filter(Boolean).map(c => `<span class="chip">${esc(c)}</span>`).join("");
+
+  let html = `<button class="ghost closer" onclick="this.closest('dialog').close()" type="button">Close</button>
+    <h2>${esc(r.name)}</h2><div class="chips">${chips}</div>`;
+
+  let listOpen = null; // "ul" | "ol" | null
+  const closeList = () => { if (listOpen) { html += `</${listOpen}>`; listOpen = null; } };
+
+  for (const line of r.body.split("\n")) {
+    if (/^##\s/.test(line)) { closeList(); html += `<h3>${esc(line.replace(/^##\s*/, ""))}</h3>`; }
+    else if (/^###\s/.test(line)) { closeList(); html += `<h4>${esc(line.replace(/^###\s*/, ""))}</h4>`; }
+    else if (line.startsWith("- ")) {
+      if (listOpen !== "ul") { closeList(); html += "<ul>"; listOpen = "ul"; }
+      let text = line.slice(2);
+      if (text.includes("|")) {           // prettify ingredient lines
+        const p = text.split("|").map(s => s.trim());
+        text = `${esc(p[0])} ${esc(p[1] || "")}` + (p[3] ? ` <span class="ing-note">— ${esc(p[3])}</span>` : "");
+        html += `<li>${text}</li>`; continue;
+      }
+      html += `<li>${esc(text)}</li>`;
+    }
+    else if (/^\d+\.\s/.test(line)) {
+      if (listOpen !== "ol") { closeList(); html += "<ol>"; listOpen = "ol"; }
+      html += `<li>${esc(line.replace(/^\d+\.\s*/, ""))}</li>`;
+    }
+    else if (line.trim() === "") { closeList(); }
+    else { closeList(); html += `<p>${esc(line)}</p>`; }
+  }
+  closeList();
+  dlg.innerHTML = html;
+  dlg.showModal();
+}
+
+/* ---------- Wire up the controls ---------- */
+
+for (const m of MEALS) {
+  document.getElementById("t-" + m).addEventListener("change", e => {
+    state.targets[m] = Math.max(0, Number(e.target.value) || 0);
+    redistribute(m);
+    saveState(); renderRecipes();
+  });
+}
+document.getElementById("genBtn").addEventListener("click", renderList);
+document.getElementById("clearBtn").addEventListener("click", () => {
+  state.selected = {};
+  saveState(); renderRecipes();
+  document.getElementById("list").innerHTML = "";
+});
+
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "comment": "Every recipe the app should load, path relative to the repo root. Add new recipes here or the app will not see them. tools/validate.py checks this list against the folders.",
+  "recipes": [
+    "recipes/breakfast/freezer-breakfast-burritos.md",
+    "recipes/lunch/chicken-tinga-bowls.md",
+    "recipes/lunch/chicken-shawarma-bowls.md",
+    "recipes/lunch/lemongrass-pork-noodle-salad.md",
+    "recipes/lunch/thai-peanut-chicken-salad.md",
+    "recipes/lunch/harissa-chickpea-quinoa-bowls.md",
+    "recipes/lunch/white-bean-sausage-kale-soup.md",
+    "recipes/lunch/korean-beef-bowls.md",
+    "recipes/lunch/french-lentil-salad.md",
+    "recipes/lunch/pesto-chicken-orzo-salad.md",
+    "recipes/lunch/chana-masala.md",
+    "recipes/dinner/carnitas-taco-night.md",
+    "recipes/dinner/sunday-ragu.md",
+    "recipes/dinner/thai-red-curry-chicken.md",
+    "recipes/dinner/chicken-tikka-masala.md",
+    "recipes/dinner/pizza-night.md",
+    "recipes/dinner/bibimbap-night.md",
+    "recipes/dinner/chile-verde.md",
+    "recipes/dinner/chicken-andouille-gumbo.md",
+    "recipes/dinner/smash-burger-night.md",
+    "recipes/dinner/char-siu-pork-fried-rice.md"
+  ]
+}
