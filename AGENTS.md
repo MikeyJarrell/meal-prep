@@ -17,6 +17,7 @@
 - New recipes must earn their place on leftover quality: good at day 4 to 5, or a deliberate fast-finish design like the smash burgers. No fish. Spices and fridge-door condiments are pantry staples, never buy-list items.
 - index.html stays a single dependency-free file: no build step, no libraries, nothing fetched from outside the repo. It must keep working on GitHub Pages and via `python3 -m http.server`.
 - Writing follows `~/.claude/writing-style-guide.md`.
+- Recipe sourcing: when hunting new recipes or techniques, start with J. Kenji López-Alt (The Food Lab, The Wok, his Serious Eats archive) — house taste. Adapt to the file format and the day-5 rule rather than copying wholesale, and name the source in the recipe's Notes when a recipe leans on his.
 - **Template deviation, deliberate:** no `data/`, `paper/`, `deep-research/`, or `feedback/` folders — this is a recipe library with a static app, and none of the research-template machinery applies. If research-style artifacts ever land here, add the standard folders then.
 
 ## Current focus

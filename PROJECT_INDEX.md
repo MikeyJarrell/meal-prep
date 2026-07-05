@@ -12,7 +12,7 @@ last-reviewed: 2026-07-05
 ## Near-term
 
 - First real cook-day: expect quantity and timing edits to recipes afterward — that's the system working, not drift.
-- Candidate additions when the rotation wants new blood: a lamb braise, a paneer dish for the vegetarian slot, a second breakfast option if Kendra converts.
+- Candidate additions when the rotation wants new blood, Kenji's catalog first (see AGENTS.md): halal cart chicken and rice (lunch), mapo tofu (dinner, wok slot), Texas chile con carne (freezer champion), plus a lamb braise or a paneer dish for the vegetarian slot, and a second breakfast if Kendra converts.
 
 ## Change log
 
