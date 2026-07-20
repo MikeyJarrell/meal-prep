@@ -15,7 +15,7 @@ Four dough balls made in 20 Sunday minutes, cold-fermenting in the fridge until 
 
 ## Ingredients
 
-- 5 cups | bread flour | pantry | 620 grams if you weigh, and you should; Costco AP flour works at a small stretch cost
+- 620 g | bread flour | pantry | about 5 cups; Costco AP flour works at a small stretch cost
 - 1 can | crushed tomatoes (28-ounce can) | pantry | half makes the sauce; the rest is for the week's other tomato jobs
 - 1 lb | low-moisture mozzarella | dairy-eggs | whole milk block, grated at home
 - 2 oz | parmigiano reggiano | dairy-eggs
@@ -34,8 +34,8 @@ Four dough balls made in 20 Sunday minutes, cold-fermenting in the fridge until 
 
 ## Sunday
 
-1. Dough: 620 g bread flour, 400 g cool water, 14 g salt, 3 g instant yeast (a scant teaspoon). Mix shaggy, rest 20 minutes, then knead 5 minutes or fold in the bowl a few times over half an hour — cold time forgives lazy kneading.
-2. Divide into four 260 g balls. Each into its own oiled glass container (the trillion-tupperware collection finally justified), lidded, into the fridge.
+1. Dough: {620 g} bread flour, {400 g} cool water, {14 g} salt, {3 g} instant yeast (a scant teaspoon). Mix shaggy, rest 20 minutes, then knead 5 minutes or fold in the bowl a few times over half an hour — cold time forgives lazy kneading.
+2. Divide into {4} balls of 260 g each. Each into its own oiled glass container (the trillion-tupperware collection finally justified), lidded, into the fridge.
 3. Sauce: half the can of crushed tomatoes, 1 grated garlic clove, a glug of olive oil, salt, pinch of sugar. Stir. Done — it cooks on the pizza.
 4. Grate the mozzarella and parmesan into a container so pizza night is pure assembly.
 

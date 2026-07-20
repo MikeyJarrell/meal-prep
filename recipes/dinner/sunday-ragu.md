@@ -21,7 +21,7 @@ Chuck roast and Italian sausage braised into a proper meat sauce — wine, tomat
 - 3 | carrots | produce
 - 3 ribs | celery | produce
 - 6 cloves | garlic | produce
-- 3 tbsp | tomato paste | pantry
+- 50 g | tomato paste | pantry | about 3 tbsp
 - 1 can | whole peeled tomatoes (28-ounce can) | pantry | crushed by hand
 - 1 can | crushed tomatoes (28-ounce can) | pantry
 - 2 cups | chicken stock | pantry
@@ -32,7 +32,7 @@ Chuck roast and Italian sausage braised into a proper meat sauce — wine, tomat
 
 - olive oil
 - kosher salt and black pepper
-- 1.5 cups dry red wine — anything you would drink
+- {350 g / 1.5 cups} dry red wine — anything you would drink
 - bay leaves
 - chili flakes
 

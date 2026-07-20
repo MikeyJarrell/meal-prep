@@ -20,7 +20,7 @@ Chicken thighs braised in a smoky chipotle-tomato sauce, shredded back into the 
 - 1 can | crushed tomatoes (28-ounce can) | pantry | fire-roasted if they have it
 - 1 can | chipotles in adobo | other-store | use 3 to 4 chiles plus all the adobo; freeze the rest of the can flat in a zip bag
 - 1 cup | chicken stock | pantry
-- 2.5 cups | jasmine rice | pantry | measured dry
+- 465 g | jasmine rice | pantry | measured dry; about 2.5 cups
 - 3 | limes | produce
 - 1 bunch | cilantro | produce
 - 2 cans | black beans | pantry

@@ -21,7 +21,7 @@ Shredded rotisserie chicken over a cabbage crunch salad with edamame and a peanu
 - 10 oz | frozen shelled edamame | frozen | thawed, straight into the salad
 - 1 bunch | green onions | produce
 - 1 bunch | cilantro | produce
-- 0.75 cup | roasted peanuts | pantry
+- 110 g | roasted peanuts | pantry | about 0.75 cup
 - 4 | limes | produce
 - 1 oz | fresh ginger | produce
 
@@ -38,7 +38,7 @@ Shredded rotisserie chicken over a cabbage crunch salad with edamame and a peanu
 
 1. Pull the chicken while it is still warm — it shreds in half the time. Big rough shreds, skin optional but encouraged.
 2. Shred the cabbage thin, julienne or coarsely grate the carrots, slice the peppers thin, slice the green onions. Toss with the thawed edamame.
-3. Dressing: whisk 0.75 cup peanut butter, juice of 4 limes, 4 tablespoons soy sauce, 2 tablespoons honey, 1 tablespoon sesame oil, 1 tablespoon rice vinegar, grated ginger, and warm water until it pours like cream. Chili to taste. Portion into six jars.
+3. Dressing: whisk {195 g / 0.75 cup} peanut butter, juice of {4} limes, {72 g / 4 tbsp} soy sauce, {42 g / 2 tbsp} honey, {14 g / 1 tbsp} sesame oil, {15 g / 1 tbsp} rice vinegar, grated ginger, and warm water until it pours like cream. Chili to taste. Portion into six jars.
 4. Pack: salad base, chicken on top, cilantro and peanuts in a corner, dressing jar on the side.
 
 ## Weeknight

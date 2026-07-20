@@ -33,7 +33,7 @@ Orzo and grilled chicken folded with pesto, cherry tomatoes, white beans, and pa
 
 1. Salt the thighs and grill over high heat until charred and cooked through, about 5 minutes a side. Rest, then cut into fat cubes.
 2. Boil the orzo 1 minute shy of the package, drain, and spread on a sheet pan with a slick of olive oil to cool without clumping.
-3. In the big bowl: pesto let down with 2 tablespoons olive oil and the juice of 1 lemon so it coats instead of clumps.
+3. In the big bowl: pesto let down with {27 g / 2 tbsp} olive oil and the juice of {1} lemon so it coats instead of clumps.
 4. Fold in the cooled orzo, chicken, halved cherry tomatoes, drained beans, and grated parmesan. Season assertively — cold food needs it.
 5. Pack with arugula laid on top of each portion and a lemon wedge riding along.
 

@@ -37,7 +37,7 @@ Pork shoulder braised low in its own fat with orange and aromatics on Sunday, st
 
 ## Sunday
 
-1. Cut the pork into fist-size chunks and salt them well. Into a dutch oven with the orange juice and spent halves, quartered yellow onion, smashed garlic, 2 teaspoons cumin, a tablespoon of oregano, 2 bay leaves, and water to come a third of the way up.
+1. Cut the pork into fist-size chunks and salt them well. Into a dutch oven with the orange juice and spent halves, quartered yellow onion, smashed garlic, {4 g / 2 tsp} cumin, {3 g / 1 tbsp} oregano, 2 bay leaves, and water to come a third of the way up.
 2. Lid on, 300°F oven, about 3 hours until it shreds at a glance. This shares the oven with the ragù if you are doubling up braises today.
 3. Fish out the orange, onion, and bay. Break the pork into rough chunks — not shreds; big pieces crisp better later. Store the pork submerged in its strained liquid and fat. That liquid is doing the preservation work all week.
 4. Warm the beans with salt and cumin; pack. Dice the white onion, chop the cilantro, mix, and box them. Wedge the limes.

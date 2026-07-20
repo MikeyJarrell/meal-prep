@@ -23,7 +23,7 @@ Pork shoulder braised in a salsa of tomatillos, poblanos, and jalapeños that yo
 - 8 cloves | garlic | produce
 - 1 bunch | cilantro | produce | stems into the blender, leaves for serving
 - 2 cups | chicken stock | pantry
-- 2 cups | jasmine rice | pantry | measured dry
+- 370 g | jasmine rice | pantry | measured dry; about 2 cups
 - 2 cans | black beans | pantry
 - 12 | corn tortillas | pantry
 - 2 | limes | produce

@@ -130,6 +130,12 @@
   dialog h2 { margin-top: 0; }
   dialog .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
   dialog .chip { font-size: 12px; background: var(--accent-soft); color: var(--ink); border-radius: 999px; padding: 2px 10px; }
+  dialog .scale { display: flex; align-items: center; gap: 8px; margin: 0 0 12px; font-size: 14px; }
+  dialog .scale input {
+    width: 56px; font: inherit; font-weight: 600; text-align: center; color: var(--ink);
+    background: transparent; border: 1px solid var(--line); border-radius: 8px; padding: 5px 4px;
+  }
+  dialog .scale .hint { color: var(--muted); font-size: 12px; }
   dialog h3 { font-size: 16px; margin: 18px 0 6px; }
   dialog h4 { font-size: 13.5px; color: var(--muted); margin: 12px 0 4px; }
   dialog li { margin: 4px 0; }
@@ -424,6 +430,7 @@ function displayQty(entry) {
   // Round up units you can't buy halves of (cans, bunches, heads, counts…).
   let q = entry.qty;
   if (WHOLE_UNITS.has(entry.unit)) q = Math.ceil(q - 1e-9);
+  else if (entry.unit === "g") q = Math.round(q / 5) * 5;   // grams to the nearest 5
   let unit = entry.unit;
   if (q !== 1 && UNIT_PLURAL[unit]) unit = UNIT_PLURAL[unit];
   let item = entry.item;
@@ -470,7 +477,7 @@ function renderList() {
     html += `<div class="group"><h3>Check the pantry before you go</h3>`;
     for (const [s, who] of [...staples.entries()].sort((a, b) => a[0].localeCompare(b[0]))) {
       html += `<label class="item"><input type="checkbox">
-        <span class="txt">${esc(s)}<span class="src">for ${[...who].map(esc).join(", ")}</span></span></label>`;
+        <span class="txt">${renderTokens(esc(s), 1)}<span class="src">for ${[...who].map(esc).join(", ")}</span></span></label>`;
     }
     html += `</div>`;
   }
@@ -497,7 +504,7 @@ function copyList() {
   }
   if (staples.size) {
     lines.push("", "CHECK THE PANTRY");
-    for (const s of [...staples.keys()].sort()) lines.push(`- ${s}`);
+    for (const s of [...staples.keys()].sort()) lines.push(`- ${renderTokens(s, 1)}`);
   }
   navigator.clipboard.writeText(lines.join("\n")).then(() => {
     const b = document.getElementById("copyBtn");
@@ -508,40 +515,94 @@ function copyList() {
 
 /* ---------- Recipe modal (renders the markdown, our dialect only) ---------- */
 
+/* Scalable quantities: {90 g / 5 tbsp} in recipe body text renders as
+   "90 g (5 tbsp)" and rescales when the servings stepper changes. Bare
+   numbers (times, temperatures) never scale — only braced ones do.
+   Format documented in docs/recipe-format.md. */
+const TOKEN_RE = /\{([\d.]+)\s*([^/}]*?)(?:\s*\/\s*([\d.]+)\s*([^}]*?))?\}/g;
+
+function fmtScaledQty(q, unit) {
+  // Grams round to whole numbers (halves under 10 g); spoons, cups, and
+  // counts round to the nearest quarter. Trailing zeros never shown.
+  const v = unit === "g"
+    ? (q < 10 ? Math.round(q * 2) / 2 : Math.round(q))
+    : Math.round(q * 4) / 4;
+  return `${v}${unit ? " " + unit : ""}`;
+}
+
+function renderTokens(text, factor) {
+  return text.replace(TOKEN_RE, (m, q1, u1, q2, u2) => {
+    const main = fmtScaledQty(Number(q1) * factor, u1.trim());
+    return q2 === undefined ? main
+      : `${main} (${fmtScaledQty(Number(q2) * factor, (u2 || "").trim())})`;
+  });
+}
+
+function bodyHtml(r, factor) {
+  let html = "";
+  let listOpen = null; // "ul" | "ol" | null
+  const closeList = () => { if (listOpen) { html += `</${listOpen}>`; listOpen = null; } };
+  const tok = t => renderTokens(esc(t), factor);   // escape first, then scale tokens
+
+  for (const line of r.body.split("\n")) {
+    if (/^##\s/.test(line)) { closeList(); html += `<h3>${tok(line.replace(/^##\s*/, ""))}</h3>`; }
+    else if (/^###\s/.test(line)) { closeList(); html += `<h4>${tok(line.replace(/^###\s*/, ""))}</h4>`; }
+    else if (line.startsWith("- ")) {
+      if (listOpen !== "ul") { closeList(); html += "<ul>"; listOpen = "ul"; }
+      let text = line.slice(2);
+      if (text.includes("|")) {           // prettify ingredient lines, scaling the quantity
+        const p = text.split("|").map(s => s.trim());
+        const m = p[0].match(/^([\d.\/]+)\s*(.*)$/);
+        const q = m ? parseQty(m[1]) : null;
+        const qtyTxt = q === null ? esc(p[0]) : esc(fmtScaledQty(q * factor, m[2].trim()));
+        text = `${qtyTxt} ${esc(p[1] || "")}` + (p[3] ? ` <span class="ing-note">— ${esc(p[3])}</span>` : "");
+        html += `<li>${text}</li>`; continue;
+      }
+      html += `<li>${tok(text)}</li>`;
+    }
+    else if (/^\d+\.\s/.test(line)) {
+      if (listOpen !== "ol") { closeList(); html += "<ol>"; listOpen = "ol"; }
+      html += `<li>${tok(line.replace(/^\d+\.\s*/, ""))}</li>`;
+    }
+    else if (line.trim() === "") { closeList(); }
+    else { closeList(); html += `<p>${tok(line)}</p>`; }
+  }
+  closeList();
+  return html;
+}
+
 function showRecipe(r) {
   const dlg = document.getElementById("modal");
   const chips = ["serves " + r.serves, r.front.sunday_active && "Sunday: " + r.front.sunday_active,
     r.front.weeknight && "weeknight: " + r.front.weeknight, r.front.calories, r.front.protein,
     r.front.tags].filter(Boolean).map(c => `<span class="chip">${esc(c)}</span>`).join("");
 
-  let html = `<button class="ghost closer" onclick="this.closest('dialog').close()" type="button">Close</button>
-    <h2>${esc(r.name)}</h2><div class="chips">${chips}</div>`;
+  // Start at your planned servings if the recipe is selected, else as written.
+  let servings = state.selected[r.path] || r.serves;
 
-  let listOpen = null; // "ul" | "ol" | null
-  const closeList = () => { if (listOpen) { html += `</${listOpen}>`; listOpen = null; } };
+  dlg.innerHTML = `<button class="ghost closer" onclick="this.closest('dialog').close()" type="button">Close</button>
+    <h2>${esc(r.name)}</h2><div class="chips">${chips}</div>
+    <div class="scale">
+      <button class="ghost" id="scaleDown" type="button" aria-label="fewer servings">−</button>
+      <input type="number" min="1" max="30" value="${servings}" aria-label="servings">
+      <button class="ghost" id="scaleUp" type="button" aria-label="more servings">+</button>
+      <span>servings</span>
+      <span class="hint"></span>
+    </div>
+    <div class="mbody"></div>`;
 
-  for (const line of r.body.split("\n")) {
-    if (/^##\s/.test(line)) { closeList(); html += `<h3>${esc(line.replace(/^##\s*/, ""))}</h3>`; }
-    else if (/^###\s/.test(line)) { closeList(); html += `<h4>${esc(line.replace(/^###\s*/, ""))}</h4>`; }
-    else if (line.startsWith("- ")) {
-      if (listOpen !== "ul") { closeList(); html += "<ul>"; listOpen = "ul"; }
-      let text = line.slice(2);
-      if (text.includes("|")) {           // prettify ingredient lines
-        const p = text.split("|").map(s => s.trim());
-        text = `${esc(p[0])} ${esc(p[1] || "")}` + (p[3] ? ` <span class="ing-note">— ${esc(p[3])}</span>` : "");
-        html += `<li>${text}</li>`; continue;
-      }
-      html += `<li>${esc(text)}</li>`;
-    }
-    else if (/^\d+\.\s/.test(line)) {
-      if (listOpen !== "ol") { closeList(); html += "<ol>"; listOpen = "ol"; }
-      html += `<li>${esc(line.replace(/^\d+\.\s*/, ""))}</li>`;
-    }
-    else if (line.trim() === "") { closeList(); }
-    else { closeList(); html += `<p>${esc(line)}</p>`; }
-  }
-  closeList();
-  dlg.innerHTML = html;
+  const body = dlg.querySelector(".mbody");
+  const input = dlg.querySelector(".scale input");
+  const hint = dlg.querySelector(".scale .hint");
+  const render = () => {
+    body.innerHTML = bodyHtml(r, servings / r.serves);
+    hint.textContent = servings === r.serves ? "as written" : `scaled from ${r.serves}`;
+  };
+  const set = n => { servings = Math.min(30, Math.max(1, n || r.serves)); input.value = servings; render(); };
+  dlg.querySelector("#scaleDown").addEventListener("click", () => set(servings - 1));
+  dlg.querySelector("#scaleUp").addEventListener("click", () => set(servings + 1));
+  input.addEventListener("change", () => set(Number(input.value)));
+  render();
   dlg.showModal();
 }
 

@@ -20,11 +20,11 @@ Crisped harissa chickpeas and a sheet pan of deeply roasted vegetables over lemo
 - 2 | bell peppers | produce
 - 2 | red onions | produce
 - 1 pint | cherry tomatoes | produce
-- 2 cups | quinoa | pantry | measured dry; the big Costco bag
+- 340 g | quinoa | pantry | measured dry, about 2 cups; the big Costco bag
 - 3 | lemons | produce
 - 1 bunch | flat-leaf parsley | produce
 - 6 oz | feta | dairy-eggs
-- 1 cup | plain greek yogurt | dairy-eggs
+- 250 g | plain greek yogurt | dairy-eggs | about 1 cup
 - 2 cloves | garlic | produce
 
 ### Pantry staples

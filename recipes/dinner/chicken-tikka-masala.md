@@ -15,16 +15,16 @@ Yogurt-marinated thighs charred hard on the grill, then folded into a buttery to
 ## Ingredients
 
 - 3 lb | boneless skinless chicken thighs | meat
-- 1 cup | plain greek yogurt | dairy-eggs | for the marinade
+- 250 g | plain greek yogurt | dairy-eggs | about 1 cup, for the marinade
 - 3 | lemons | produce
 - 12 cloves | garlic | produce | 6 for the marinade, 6 for the sauce
 - 3 oz | fresh ginger | produce | split the same way
 - 2 | yellow onions | produce
-- 2 tbsp | tomato paste | pantry
+- 30 g | tomato paste | pantry | about 2 tbsp
 - 1 can | crushed tomatoes (28-ounce can) | pantry
-- 1.5 cups | heavy cream | dairy-eggs
+- 360 g | heavy cream | dairy-eggs | about 1.5 cups
 - 6 | naan | bakery | the Stonefire two-packs at Costco
-- 2.5 cups | jasmine rice | pantry | measured dry; basmati if it is around
+- 465 g | jasmine rice | pantry | measured dry, about 2.5 cups; basmati if it is around
 - 1 bunch | cilantro | produce
 
 ### Pantry staples
@@ -36,9 +36,9 @@ Yogurt-marinated thighs charred hard on the grill, then folded into a buttery to
 
 ## Sunday
 
-1. Marinade (morning if possible): yogurt, juice of 1 lemon, half the garlic and ginger grated, 2 teaspoons garam masala, 2 teaspoons cumin, 1 teaspoon turmeric, 1 teaspoon smoked paprika, big pinch of salt. Coat the thighs.
+1. Marinade (morning if possible): yogurt, juice of {1} lemon, half the garlic and ginger grated, {4 g / 2 tsp} garam masala, {4 g / 2 tsp} cumin, {3 g / 1 tsp} turmeric, {2.5 g / 1 tsp} smoked paprika, big pinch of salt. Coat the thighs.
 2. Grill the thighs over the hottest part until genuinely charred in spots — darker than looks responsible — about 5 minutes a side. Rest, then cut into big chunks. (Broiler on a rack works when the grill is booked.)
-3. Sauce: melt 4 tablespoons butter, soften the diced onions 8 minutes, then the remaining garlic and ginger, then tomato paste, 2 teaspoons garam masala, 1 teaspoon each cumin and coriander, cayenne to taste; 2 minutes until it smells toasty.
+3. Sauce: melt {57 g / 4 tbsp} butter, soften the diced onions 8 minutes, then the remaining garlic and ginger, then tomato paste, {4 g / 2 tsp} garam masala, {2 g / 1 tsp} each of cumin and coriander, cayenne to taste; 2 minutes until it smells toasty.
 4. Crushed tomatoes and a pinch of sugar; simmer 10 minutes. Blend smooth right in the pot with a stick blender if you like it silky.
 5. Cream in, then the chicken and any board juices. Simmer 5 gentle minutes, finish with a squeeze of lemon. Cook the rice alongside.
 6. Cool and pack: curry in dinner containers, rice separate, naan stays in its bag until its night.

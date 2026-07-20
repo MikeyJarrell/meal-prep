@@ -23,11 +23,11 @@ A proper dark-roux gumbo with chicken thighs and andouille — the roux goes to 
 - 8 cups | chicken stock | pantry | two quarts
 - 12 oz | frozen okra | other-store | optional but traditional; it thickens and it belongs
 - 1 bunch | green onions | produce
-- 2.5 cups | jasmine rice | pantry | measured dry
+- 465 g | jasmine rice | pantry | measured dry; about 2.5 cups
 
 ### Pantry staples
 
-- neutral oil and flour, for the roux (0.75 cup each)
+- neutral oil and flour, for the roux ({160 g / 0.75 cup} oil, {90 g / 0.75 cup} flour)
 - kosher salt and black pepper
 - smoked paprika, cayenne, dried thyme, dried oregano, bay leaves
 - hot sauce — the vinegary Louisiana kind
@@ -35,7 +35,7 @@ A proper dark-roux gumbo with chicken thighs and andouille — the roux goes to 
 ## Sunday
 
 1. Sear the sliced andouille in the big pot; set aside. Salt the thighs, brown them lightly, set aside whole.
-2. The roux: 0.75 cup oil, 0.75 cup flour, medium heat, and stir — genuinely continuously — 25 to 35 minutes until it is the color of an old penny. It smells nutty, then toasty, then slightly alarming; that last one is right. If black specks appear, it burned: start over, no salvage.
+2. The roux: {160 g / 0.75 cup} oil, {90 g / 0.75 cup} flour, medium heat, and stir — genuinely continuously — 25 to 35 minutes until it is the color of an old penny. It smells nutty, then toasty, then slightly alarming; that last one is right. If black specks appear, it burned: start over, no salvage.
 3. Trinity straight into the hot roux: diced onion, celery, and bell pepper. It will roar. Stir 5 minutes, then garlic, thyme, oregano, paprika, cayenne, bay.
 4. Stock in slowly, whisking so the roux dissolves instead of lumping. Chicken and andouille back in. Simmer, lid ajar, 45 minutes; add the okra for the last 15. Shred the chicken into the pot.
 5. Season at the end — andouille and reduction concentrate salt. Black pepper, hot sauce to taste. Cook the rice separately. Cool the pot in a sink bath; portion, and freeze half for the back of the week.

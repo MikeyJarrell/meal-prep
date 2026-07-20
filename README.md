@@ -2,7 +2,7 @@
 
 A five-day meal-prep system for two active adults who cook well and shop at Costco: a library of recipes built to be cooked in one Sunday session and eaten across the week, and a small web app that turns the week's picks into an aggregated shopping list.
 
-**The app:** [mikeyjarrell.com/meal-prep](https://mikeyjarrell.com/meal-prep/) — works on a phone in the Costco aisles. (Local option: run `python3 -m http.server 8123` in this folder and open http://localhost:8123.) Check the recipes you want, set how many breakfasts, lunches, and dinners the week needs, and it generates a Costco list — quantities scaled and summed, grouped by store section, with the non-Costco stragglers and check-the-pantry staples split out. Tap any recipe card to read the full recipe.
+**The app:** [mikeyjarrell.com/meal-prep](https://mikeyjarrell.com/meal-prep/) — works on a phone in the Costco aisles. (Local option: run `python3 -m http.server 8123` in this folder and open http://localhost:8123.) Check the recipes you want, set how many breakfasts, lunches, and dinners the week needs, and it generates a Costco list — quantities scaled and summed, grouped by store section, with the non-Costco stragglers and check-the-pantry staples split out. Tap any recipe card to read the full recipe, with a servings stepper that rescales every quantity — cooking measures are in grams (spoon equivalents in parentheses).
 
 ## How the week works
 

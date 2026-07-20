@@ -28,6 +28,10 @@ REPO = Path(__file__).resolve().parent.parent
 CATEGORIES = {"produce", "meat", "dairy-eggs", "bakery", "frozen", "pantry", "other-store"}
 MEALS = {"breakfast", "lunch", "dinner"}
 
+# Scalable-quantity tokens in body text: {90 g / 5 tbsp} or {620 g} or {4}.
+# Mirrors TOKEN_RE in index.html; documented in docs/recipe-format.md.
+TOKEN_RE = re.compile(r"\{([\d.]+)\s*([^/}]*?)(?:\s*/\s*([\d.]+)\s*([^}]*?))?\}")
+
 errors = []    # things that break the app
 warnings = []  # things worth a look
 
@@ -70,6 +74,18 @@ def check_recipe(path):
         errors.append(f"{rel}: meal is '{front['meal']}', expected one of {sorted(MEALS)}")
     if front.get("serves") and not front["serves"].isdigit():
         errors.append(f"{rel}: serves is '{front['serves']}', expected a whole number")
+
+    # Scalable-quantity tokens: every { or } must belong to a well-formed
+    # token, and quantities inside must be decimals (1/2 breaks the app's
+    # slash-separated dual-measure format — write 0.5).
+    for n, line in enumerate(text.splitlines(), start=1):
+        for m in TOKEN_RE.finditer(line):
+            for unit in (m.group(2), m.group(4)):
+                if unit and "/" in unit:
+                    errors.append(f"{rel}:{n}: token '{m.group(0)}' has a fraction or stray slash — use decimals like 0.5")
+        leftover = TOKEN_RE.sub("", line)
+        if "{" in leftover or "}" in leftover:
+            errors.append(f"{rel}:{n}: malformed scalable-quantity token (see docs/recipe-format.md)")
 
     # Ingredient lines: bullets containing | inside the ## Ingredients section.
     items = []

@@ -18,12 +18,12 @@ All the banchan — sesame spinach, sweet carrots, pickled cucumber, kimchi — 
 - 8 cloves | garlic | produce
 - 2 oz | fresh ginger | produce
 - 1 | apples | produce | grated into the marinade, standing in for Korean pear
-- 3 cups | jasmine rice | pantry | measured dry; short-grain if you keep it
+- 555 g | jasmine rice | pantry | measured dry, about 3 cups; short-grain if you keep it
 - 10 oz | baby spinach | produce
 - 4 | carrots | produce
 - 4 | persian cucumbers | produce
 - 16 oz | kimchi | dairy-eggs | the Jongga jar at Costco
-- 4 tbsp | gochujang | pantry
+- 80 g | gochujang | pantry | about 4 tbsp
 - 6 | large eggs | dairy-eggs
 - 1 bunch | green onions | produce
 
@@ -39,9 +39,9 @@ All the banchan — sesame spinach, sweet carrots, pickled cucumber, kimchi — 
 
 ## Sunday
 
-1. Marinade: 6 tablespoons soy, 3 tablespoons brown sugar, 2 tablespoons sesame oil, the grated apple, garlic, ginger, black pepper. Toss the shaved beef in; it sits until its night — flavor deepens daily. (Starting from flank instead: freeze 30 minutes, slice paper-thin across the grain, then marinate.)
+1. Marinade: {108 g / 6 tbsp} soy, {42 g / 3 tbsp} brown sugar, {27 g / 2 tbsp} sesame oil, the grated apple, garlic, ginger, black pepper. Toss the shaved beef in; it sits until its night — flavor deepens daily. (Starting from flank instead: freeze 30 minutes, slice paper-thin across the grain, then marinate.)
 2. Banchan line, one pan, no washing between: wilt the spinach, squeeze, dress with sesame oil, soy, garlic, sesame seeds. Sauté julienned carrots with a pinch of sugar and salt, 2 minutes. Quick-pickle the cucumbers in rice vinegar, sugar, salt.
-3. Sauce: 4 tablespoons gochujang, 1 tablespoon each sesame oil, honey, and rice vinegar, loosened with water to drizzle.
+3. Sauce: {80 g / 4 tbsp} gochujang, {14 g / 1 tbsp} sesame oil, {21 g / 1 tbsp} honey, {15 g / 1 tbsp} rice vinegar, loosened with water to drizzle.
 4. Cook the rice; pack everything in its own container, banchan grouped on a fridge shelf like a little shop.
 
 ## Weeknight

@@ -16,10 +16,10 @@ Pork shoulder in a hoisin-honey char siu glaze, roasted Sunday, and rice cooked 
 ## Ingredients
 
 - 2 lb | pork shoulder | meat | a chunk off the Costco two-pack, cut into two long strips
-- 0.5 cup | hoisin sauce | other-store | Lee Kum Kee if choosing
-- 3 cups | jasmine rice | pantry | measured dry, cooked Sunday, deliberately staled in the fridge
+- 160 g | hoisin sauce | other-store | about 0.5 cup; Lee Kum Kee if choosing
+- 555 g | jasmine rice | pantry | measured dry, about 3 cups; cooked Sunday, deliberately staled in the fridge
 - 4 | large eggs | dairy-eggs
-- 1.5 cups | frozen peas | frozen
+- 200 g | frozen peas | frozen | about 1.5 cups
 - 2 | carrots | produce
 - 1 bunch | green onions | produce
 - 4 cloves | garlic | produce
@@ -36,7 +36,7 @@ Pork shoulder in a hoisin-honey char siu glaze, roasted Sunday, and rice cooked 
 
 ## Sunday
 
-1. Marinade: half cup hoisin, 3 tablespoons honey, 3 tablespoons soy, 1 tablespoon sesame oil, 1 teaspoon five-spice, grated garlic and ginger. Coat the pork strips; reserve a few spoonfuls of marinade.
+1. Marinade: {160 g / 0.5 cup} hoisin, {63 g / 3 tbsp} honey, {54 g / 3 tbsp} soy, {14 g / 1 tbsp} sesame oil, {2.5 g / 1 tsp} five-spice, grated garlic and ginger. Coat the pork strips; reserve a few spoonfuls of marinade.
 2. Roast on a rack at 375°F about 90 minutes, basting with the reserved marinade twice in the back half, until burnished and 190°F for sliceable-tender. Broil 2 minutes at the end for lacquered edges. Cool, slice half-moons, box.
 3. Cook the rice, spread it on a sheet pan to cool fast, then fridge it uncovered an hour before boxing. Dry rice is the entire fried-rice trick and Sunday is when it gets made.
 4. Dice the carrots. That's the mise; the cooking happens on eating night.
