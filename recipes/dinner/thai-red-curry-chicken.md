@@ -32,14 +32,17 @@ Chicken thighs in a coconut red curry with peppers, zucchini, and basil, over ja
 
 ## Sunday
 
-1. Open the coconut cans without shaking; spoon the thick cream off the top of one into a wide hot pot. Fry it until the oil separates, then fry the curry paste in that split cream 2 to 3 minutes until it darkens and stops smelling raw.
-2. Chicken in, tossed to coat, 2 minutes. Then the rest of the coconut milk, {36 g} fish sauce, and {14 g} brown sugar. Simmer 12 minutes.
-3. Add onion petals, pepper strips, and thick zucchini half-moons; simmer 4 minutes only — they should still argue back a little. Off heat: juice of 1 lime and most of the basil.
-4. Cook the rice. Cool both, pack in dinner-size containers, curry and rice separate.
+1. Start the rice so it cooks while you make the curry: put {465 g} jasmine rice in a strainer and rinse under cold water for about 30 seconds. Rice cooker: rice plus {580 g} water, press start. Pot: rice and {580 g} water in a lidded pot, bring to a boil over high heat, then cover, turn the heat to its lowest setting, and cook 15 minutes; turn off the heat and leave it covered 10 more minutes. Do not lift the lid until the very end.
+2. Prep everything before the stove gets busy: cut the chicken into big bite-size pieces if the package has not done it, cut the bell peppers into strips, halve the zucchini lengthwise and slice into thick half-moons, and cut the onion into petals (halve it root to tip, cut each half into thirds, and separate the layers). Pick the basil leaves off their stems.
+3. Open the coconut milk cans without shaking them — the thick white cream rises and sets at the top while the can sits still, and shaking mixes it back into the watery milk underneath. Spoon the thick cream off the top of one can into a wide pot; keep everything else for later.
+4. Set the pot over medium-high heat and fry the cream, stirring now and then, 3 to 5 minutes, until the oil separates: the cream goes from smooth and white to broken and curdled-looking, with little pools of clear oil at the edges. That oil is what you fry the paste in. Add the curry paste and fry it in the split cream 2 to 3 minutes, mashing and stirring the whole time, until it darkens a shade and the smell changes from sharp and raw to deep and toasty — when the kitchen suddenly smells like a Thai restaurant, it is done.
+5. Add the chicken and toss until every piece is coated in the paste, about 2 minutes. Pour in the rest of the coconut milk — the thin liquid left in the first can plus the other two cans — along with {36 g} fish sauce and {14 g} brown sugar. Bring to a gentle simmer (small bubbles at the edges, not a rolling boil) and cook 12 minutes, stirring occasionally, until the chicken is cooked through — cut into a big piece; no pink inside.
+6. Add the onion petals, pepper strips, and zucchini half-moons and simmer 4 minutes only — they should still be a little crisp when you bite one. Pulling them underdone is deliberate: they finish cooking in the reheat, so Thursday's vegetables land exactly right instead of mushy. Take the pot off the heat and stir in the juice of 1 lime and most of the basil.
+7. Pack in dinner-size containers, curry and rice separate. Leave the lids off until the food stops steaming, about 20 minutes, then lid and refrigerate.
 
 ## Weeknight
 
-- Microwave both, or reheat the curry in the wok over medium — it wakes up the paste. Fresh basil and the second lime if you have them standing by.
+- Microwave the curry and rice 2 to 3 minutes until steaming — or better, reheat the curry in the wok over medium heat about 5 minutes, stirring, until it bubbles at the edges (the direct heat wakes the paste back up) while the rice goes in the microwave. Tear fresh basil over the top and squeeze on a wedge of the second lime if you have them standing by.
 
 ## Notes
 

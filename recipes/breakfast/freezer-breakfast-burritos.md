@@ -36,18 +36,18 @@ Ten burritos, wrapped and frozen on Sunday. Three rules keep a frozen burrito fr
 
 ## Sunday
 
-1. Potatoes first: dice small (about half an inch), toss with oil and salt, and roast at 425°F until deeply browned, 25 to 30 minutes. They should rattle on the pan.
-2. Bacon on a sheet pan in the same oven, 15 to 18 minutes. Brown the sausage in crumbles on the flat top. Drain both on paper towels, then chop the bacon.
-3. In the sausage fat, sweat the diced yellow onion with both cans of green chiles until soft, about 5 minutes.
-4. Soft-scramble the eggs: low heat, plenty of butter, season, and pull them a shade before you would normally — glossy, not set. Fold in the onion-chile mixture and the sliced green onions.
-5. Cool everything to room temperature spread out on sheet pans, about 15 minutes. Warm filling steams the tortilla into mush, so wait it out. Meanwhile warm each tortilla 10 seconds per side on the flat top so it rolls without cracking.
-6. Assembly line: a handful of cheddar first (it glues to the warm-ish eggs), then eggs, potatoes, and meat — five burritos with bacon, five with sausage. About 250 g of filling each. Roll tight with the ends tucked.
-7. Wrap each in foil or parchment, label the two camps, freeze flat on a sheet pan, then pile into a bin or bag.
+1. Heat the oven to 425°F and start the potatoes first, since they take longest: scrub them (no need to peel), dice them small, about half an inch, and toss them on a sheet pan with a glug of neutral oil and a big pinch of salt, spread in a single layer. Roast 25 to 30 minutes, flipping once with a spatula about halfway, until they are deeply browned and crisp — done when they rattle like gravel if you shake the pan. Crisp them harder than seems reasonable; the freezer softens them.
+2. While the potatoes roast, cook the meats: lay the bacon strips flat on a second sheet pan and slide it into the same oven for 15 to 18 minutes, until browned and crisp. Meanwhile, brown the sausage on the flat top or in a large skillet over medium-high heat, breaking it into crumbles with a spatula, about 8 minutes, until no pink remains and the edges are browned. Drain both on paper towels, keep the sausage fat in the pan, and chop the bacon into small pieces.
+3. In the reserved sausage fat over medium heat, cook the diced yellow onion and both cans of green chiles with a pinch of salt for about 5 minutes, until the onion is soft and see-through but not browned — this gentle no-color cooking is called sweating. Scrape the mixture into a bowl and set it aside for the eggs.
+4. Soft-scramble the eggs: crack all the eggs into a big bowl, add a big pinch of salt and some black pepper, and whisk until an even yellow. Set the flat top or a large nonstick pan over low heat with a generous knob of butter, pour in the eggs, and stir slowly and constantly with a spatula, scraping the bottom as soft curds form — low heat and constant stirring are the whole technique. Pull them off the heat a shade before they look finished, while still glossy and slightly wet, not fully set; they cook the rest of the way in the microwave on reheat day, and eggs cooked through now turn rubbery then. Fold in the onion-chile mixture and the sliced green onions.
+5. Cool everything before rolling — this step is not skippable: spread the eggs, potatoes, and both meats out on sheet pans for about 15 minutes, until they reach room temperature; warm filling steams the tortilla into mush, and mush is what freezes. While everything cools, warm each tortilla 10 seconds per side on the flat top so it rolls without cracking, and stack them under a clean kitchen towel to stay soft.
+6. Set up the assembly line and build one burrito at a time: a small handful of cheddar goes down first (against the warm-ish eggs it half-melts and glues the filling together), then eggs, potatoes, and meat — five burritos get bacon, five get sausage. About 250 g of filling each. To roll: fold the left and right sides in over the filling, fold the bottom edge up and over, then roll away from you, keeping it tight and the ends tucked in.
+7. Wrap each burrito snugly in foil or parchment and mark each one B for bacon or S for sausage. Lay them flat on a sheet pan in the freezer until frozen solid, a few hours, then pile them into a freezer bag or bin — freezing them flat first keeps them from getting squashed.
 
 ## Weeknight
 
-- Unwrap, wrap in a damp paper towel, microwave 90 seconds, flip, then 60 to 90 seconds more.
-- The upgrade: after the microwave, 2 minutes seam-down on the flat top or in the toaster oven for a crackly shell.
+- Unwrap completely — foil can never go in the microwave — then wrap the burrito in a damp paper towel (the steam keeps the tortilla soft), microwave 90 seconds, flip it over, and give it 60 to 90 seconds more, until the middle is hot.
+- The upgrade: after the microwave, lay it seam-down on the flat top or in the toaster oven for 2 minutes for a crackly shell.
 - Keeping a couple in the fridge instead of the freezer is fine for the first 3 days; those reheat in 90 seconds flat.
 
 ## Notes

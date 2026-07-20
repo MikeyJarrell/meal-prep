@@ -34,16 +34,19 @@ Four dough balls made in 20 Sunday minutes, cold-fermenting in the fridge until 
 
 ## Sunday
 
-1. Dough: {620 g} bread flour, {400 g} cool water, {14 g} salt, {3 g} instant yeast. Mix shaggy, rest 20 minutes, then knead 5 minutes or fold in the bowl a few times over half an hour — cold time forgives lazy kneading.
-2. Divide into {4} balls of 260 g each. Each into its own oiled glass container (the trillion-tupperware collection finally justified), lidded, into the fridge.
-3. Sauce: half the can of crushed tomatoes, 1 grated garlic clove, a glug of olive oil, salt, pinch of sugar. Stir. Done — it cooks on the pizza.
-4. Grate the mozzarella and parmesan into a container so pizza night is pure assembly.
+1. Dough: whisk {620 g} bread flour, {14 g} salt, and {3 g} instant yeast together in a big bowl, add {400 g} cool water, and mix with a sturdy spoon and then your hand until no dry flour is left. It will look shaggy — a rough, sticky, lumpy mass, nothing like smooth dough — and that is correct. Cover the bowl and rest 20 minutes; the flour drinks the water and does half the kneading for you. Then knead on the counter 5 minutes — push the dough away with the heel of your hand, fold it back over itself, turn it a quarter, repeat — until it turns smooth and springs back slowly when poked. Or skip the kneading and just fold the dough over itself in the bowl a few times every 10 minutes over half an hour; the cold time ahead forgives lazy kneading.
+2. Divide into {4} balls of 260 g each, using a scale. To shape a ball, tuck the edges of a piece under itself again and again so the top stretches into a smooth, tight skin, then pinch the seam closed on the bottom. Each ball goes seam-side down into its own oiled glass container (the trillion-tupperware collection finally justified), lidded, into the fridge. This is the cold ferment: at fridge temperature the dough rises very slowly, building flavor and stretch every day it waits, which is why Friday dough beats Monday dough.
+3. Sauce: stir half the can of crushed tomatoes with 1 grated garlic clove, a glug of olive oil, a big pinch of salt, and a pinch of sugar in a container. Done — the sauce is deliberately raw, because it cooks on the pizza. Refrigerate.
+4. Grate the mozzarella and parmesan into one container and refrigerate, so pizza night is pure assembly.
 
 ## Weeknight
 
-- Dough balls out of the fridge 60 to 90 minutes before firing (set a reminder when you get home). Pizza oven to full temperature.
-- Stretch on a floured counter, sauce thin, cheese, toppings light — the oven punishes overloading. Launch, turn at 45 seconds, out at 90.
-- Salad kit into a bowl while pies rotate. Eat pizza standing up like it deserves.
+- Dough balls out of the fridge 60 to 90 minutes before firing (set a reminder when you get home) — cold dough snaps back and tears when stretched, while room-temperature dough relaxes and cooperates. Start the pizza oven early enough that it hits full temperature when the dough is ready.
+- Shape one ball at a time on a well-floured counter: turn the ball out, flour the top, and press it flat with your fingertips working from the center outward, leaving the outer couple of centimeters untouched — that undisturbed rim becomes the puffy crust. No rolling pin, ever; it crushes the bubbles the week of fermentation built.
+- Now stretch: drape the disk over the backs of both floured hands and let gravity do the pulling while you rotate it on your knuckles, until the center is thin enough to see light through. If it tears, lay it down and pinch the hole shut. If it keeps springing back, let it rest on the counter 5 minutes — the dough is asking for a break.
+- Build on the peel, not the counter: dust the peel with semolina or flour, lay the stretched dough on it, and shake the peel — the dough must scoot freely, because a stuck pizza cannot launch. Spread sauce thin with the back of a spoon, leaving the rim bare; then cheese, then toppings, all lighter than feels right — the oven punishes overloading with a soggy middle.
+- Launch: shake test once more, then angle the peel down toward the back of the oven floor and pull it out from under the pizza in one confident jerk — hesitation is how pizzas fold. Turn at 45 seconds: the side facing the flame chars much faster, so slide the peel under, spin the pie half a turn, set it back. Out at 90, when the rim is puffed and spotted with dark blisters and the cheese bubbles.
+- Repeat for the rest of the balls. Salad kit into a bowl while pies rotate. Eat pizza standing up like it deserves.
 
 ## Notes
 

@@ -34,16 +34,17 @@ Firm little lentils with bacon, sweated shallots and carrots, a sharp mustard vi
 
 ## Sunday
 
-1. Simmer the lentils with a bay leaf and a garlic clove if one is rolling around, 22 to 25 minutes — they should hold their shape with a slight bite. Salt in the last 5 minutes. Drain.
-2. Meanwhile cut the bacon into batons and render until crisp. Scoop out, and pour off all but a thin film of fat.
-3. In that fat: finely diced shallots, carrots, and celery, 5 minutes — softened but not browned.
-4. Vinaigrette in the bottom of the big bowl: {30 g} dijon, {45 g} sherry vinegar, {81 g} olive oil, salt, lots of black pepper.
-5. Fold in the warm lentils (warm legumes drink dressing), the vegetables, bacon, chopped parsley, and toasted walnuts. Taste — lentils absorb salt overnight, so it should taste slightly aggressive today.
-6. Pack six portions; crumble goat cheese over each and lay a handful of arugula on top without mixing.
+1. Start the lentils: rinse them in a strainer and pick out any tiny stones. Put them in a large pot and cover with plenty of cold water — a few fingers above the lentils, like cooking pasta — along with the bay leaf and a peeled garlic clove if one is rolling around. Bring to a boil over high heat, then lower to a gentle simmer (small, steady bubbles) and cook 22 to 25 minutes, starting to taste at 20: a done lentil is tender all the way through but still holds its shape with a slight bite, so pull them the moment they stop tasting chalky in the middle — splitting or mushy means they went a few minutes too far. Add a couple of big pinches of salt for the last 5 minutes. Drain in a colander and fish out the bay leaf.
+2. While the lentils simmer, render the bacon: cut the strips crosswise into batons — short sticks about the width of a pencil. Put them in a large cold skillet, then set it over medium heat; starting cold renders the bacon, meaning the fat melts out slowly and the meat crisps in its own fat. Cook 8 to 10 minutes, stirring now and then, until browned and crisp, then scoop the bacon onto a paper towel with a slotted spoon. Pour off all but a thin film of fat into a jar or empty can — never down the drain.
+3. Cook the vegetables in that film of bacon fat: add the finely diced shallots, carrots, and celery with a pinch of salt over medium heat and cook about 5 minutes, stirring, until softened and smelling sweet but not browned — turn the heat down if they start to color.
+4. Toast the walnuts: put them in a small dry skillet over medium heat and cook 3 to 4 minutes, tossing often, until they smell toasty and darken a shade. They go from toasted to burnt fast, so stay by the pan. Roughly chop them.
+5. Make the vinaigrette in the bottom of your biggest bowl: whisk {30 g} dijon and {45 g} sherry vinegar together, then pour in {81 g} olive oil in a slow, thin stream while whisking, so the dressing turns creamy and stays blended instead of separating into layers. Season with salt and a lot of black pepper.
+6. Fold the warm drained lentils into the vinaigrette — warm legumes drink up dressing in a way cold ones never do — then fold in the vegetables, the bacon, the chopped parsley, and the walnuts. Taste it: it should be slightly too sharp and too salty today, because the lentils absorb salt and acid overnight and land exactly right by day 3.
+7. Pack six containers: divide the salad, crumble goat cheese over each, and lay a handful of arugula on top of each without mixing it in — it stays fresh that way until you toss it through at lunch. Lid once the salad has stopped steaming and refrigerate.
 
 ## Weeknight
 
-- No microwave. Toss the arugula through when you eat; ten minutes out of the fridge wakes the flavors up.
+- No microwave. Take the container out of the fridge 10 minutes before eating — the chill mutes the flavors — then toss the arugula through and eat.
 
 ## Notes
 

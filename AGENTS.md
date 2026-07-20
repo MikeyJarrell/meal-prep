@@ -15,6 +15,7 @@
 - After adding or editing a recipe: add new files to [recipes/manifest.json](recipes/manifest.json) and run `python3 tools/validate.py`. The app only sees what the manifest lists, and only parses what matches the format.
 - Reuse existing ingredient names and units exactly (check the validator's near-duplicate warnings) — differently spelled items don't aggregate on the shopping list.
 - New recipes must earn their place on leftover quality: good at day 4 to 5, or a deliberate fast-finish design like the smash burgers. No fish. Spices and fridge-door condiments are pantry staples, never buy-list items.
+- Write steps for a first-time cook. Name the pan, the heat level, the time, and what "done" looks like; explain technique terms in-line the first time they appear (render, braise, julienne); say what to do while things simmer. Mikey has not made these dishes before — nothing in a step may assume prior technique. All measured quantities in grams, none in spoons or cups (see docs/recipe-format.md).
 - index.html stays a single dependency-free file: no build step, no libraries, nothing fetched from outside the repo. It must keep working on GitHub Pages and via `python3 -m http.server`.
 - Writing follows `~/.claude/writing-style-guide.md`.
 - Recipe sourcing: when hunting new recipes or techniques, start with J. Kenji López-Alt (The Food Lab, The Wok, his Serious Eats archive) — house taste. Adapt to the file format and the day-5 rule rather than copying wholesale, and name the source in the recipe's Notes when a recipe leans on his.

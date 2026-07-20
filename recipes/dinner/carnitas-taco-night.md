@@ -37,16 +37,16 @@ Pork shoulder braised low in its own fat with orange and aromatics on Sunday, st
 
 ## Sunday
 
-1. Cut the pork into fist-size chunks and salt them well. Into a dutch oven with the orange juice and spent halves, quartered yellow onion, smashed garlic, {4 g} cumin, {3 g} oregano, 2 bay leaves, and water to come a third of the way up.
-2. Lid on, 300°F oven, about 3 hours until it shreds at a glance. This shares the oven with the ragù if you are doubling up braises today.
-3. Fish out the orange, onion, and bay. Break the pork into rough chunks — not shreds; big pieces crisp better later. Store the pork submerged in its strained liquid and fat. That liquid is doing the preservation work all week.
-4. Warm the beans with salt and cumin; pack. Dice the white onion, chop the cilantro, mix, and box them. Wedge the limes.
+1. Heat the oven to 300°F. Cut the pork into fist-size chunks and salt them well on all sides. Put them in the dutch oven, squeeze the orange over them, and throw the spent halves in whole. Add the yellow onion cut into quarters, the garlic cloves smashed (press each one under the flat of a knife until it cracks, then slip off the skin), {4 g} cumin, {3 g} oregano, and 2 bay leaves. Pour in water until it comes about a third of the way up the meat — not covering it.
+2. Lid on all the way, into the 300°F oven for about 3 hours. This is a braise: cooking low and slow, partly submerged in liquid, until the tough connective tissue melts and the meat gives up. Start checking at 2.5 hours — it is done when a fork twists a chunk apart with no effort. It shares the oven with the ragù if you are doubling up braises today.
+3. While the pork braises, do the sides: warm the beans in a small saucepan over medium-low heat with a pinch of salt and a pinch of cumin, about 5 minutes, until steaming, then pack them. Finely dice the white onion, chop the cilantro leaves, mix the two together, and box them. Cut the limes into wedges and box those too.
+4. When the pork is done, fish out the orange halves, onion, and bay leaves with tongs. Break the pork into rough chunks with tongs — big pieces, not shreds; big pieces crisp better later. Store the pork in a container submerged in its own liquid and fat (pour the braising liquid through a strainer over the pork until it is covered). The liquid keeps the meat moist and sealed away from air all week — it is why day-4 carnitas taste braised-this-afternoon.
 
 ## Weeknight
 
-- Flat top on high. Pull the pork out of its liquid, press it onto the griddle in a thin layer, and leave it alone 3 minutes until the underside shatters. Flip once, splash a spoonful of the braising liquid over, and pull it.
-- Warm tortillas on the open flat top 20 seconds a side while the pork crisps. Microwave the beans.
-- Build at the table: pork, salsa verde, onion-cilantro, lime, avocado.
+- Flat top on high until a drop of water sizzles off instantly. Pull the night's pork out of its liquid and let it drip for a moment — it needs to go on dry-ish, because wet pork steams instead of crisping. Press it onto the griddle in a thin layer with the spatula, then do not touch it for 3 minutes; moving it early is the only way to fail. It is ready when the underside is deep brown and crackly — lift one edge with the spatula to peek. Flip once, splash a spoonful of the braising liquid over the top, and pull it off.
+- While the pork crisps, warm the tortillas on the open part of the flat top 20 seconds a side until soft and puffed in spots, and stack them in a clean towel. Microwave the beans until steaming, about 2 minutes.
+- Build at the table: pork, salsa verde, onion-cilantro, a squeeze of lime, and sliced avocado.
 
 ## Notes
 

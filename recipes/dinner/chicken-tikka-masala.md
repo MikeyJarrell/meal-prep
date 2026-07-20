@@ -36,16 +36,18 @@ Yogurt-marinated thighs charred hard on the grill, then folded into a buttery to
 
 ## Sunday
 
-1. Marinade (morning if possible): yogurt, juice of {1} lemon, half the garlic and ginger grated, {4 g} garam masala, {4 g} cumin, {3 g} turmeric, {2.5 g} smoked paprika, big pinch of salt. Coat the thighs.
-2. Grill the thighs over the hottest part until genuinely charred in spots — darker than looks responsible — about 5 minutes a side. Rest, then cut into big chunks. (Broiler on a rack works when the grill is booked.)
-3. Sauce: melt {57 g} butter, soften the diced onions 8 minutes, then the remaining garlic and ginger, then tomato paste, {4 g} garam masala, {2 g} each of cumin and coriander, cayenne to taste; 2 minutes until it smells toasty.
-4. Crushed tomatoes and a pinch of sugar; simmer 10 minutes. Blend smooth right in the pot with a stick blender if you like it silky.
-5. Cream in, then the chicken and any board juices. Simmer 5 gentle minutes, finish with a squeeze of lemon. Cook the rice alongside.
-6. Cool and pack: curry in dinner containers, rice separate, naan stays in its bag until its night.
+1. Make the marinade, in the morning if possible: in a big bowl, stir together the yogurt, the juice of {1} lemon, half the garlic and half the ginger (both grated), {4 g} garam masala, {4 g} cumin, {3 g} turmeric, {2.5 g} smoked paprika, and a big pinch of salt. Add the thighs and turn them until every surface is coated. Cover and refrigerate — the yogurt tenderizes the meat, and it is what chars into flavor on the grill. A morning-to-afternoon soak is ideal; even an hour helps.
+2. Grill the thighs over the hottest part of the grill about 5 minutes a side, until genuinely charred in spots — darker than looks responsible. Blackened yogurt edges are correct, not a mistake: they dissolve into the sauce over the week and become the flavor. The chicken is done when the thickest piece shows no pink inside when you cut into it. Rest the thighs on a cutting board 5 minutes, then cut into big chunks, saving every drop of the board juices. (Broiler on high, thighs on a rack over a sheet pan close to the heat, works when the grill is booked.)
+3. Start the rice so it finishes alongside the sauce: put {465 g} rice in a strainer and rinse under cold water for about 30 seconds. Rice cooker: rice plus {580 g} water, press start. Pot: rice and {580 g} water in a lidded pot, bring to a boil over high heat, then cover, turn the heat to its lowest setting, and cook 15 minutes; turn off the heat and leave it covered 10 more minutes without lifting the lid.
+4. Start the sauce: melt {57 g} butter in a large pot over medium heat, add the diced onions, and cook 8 minutes, stirring often, until soft and translucent but not browned. Add the remaining garlic and ginger, grated, and stir 1 minute until fragrant. Add the tomato paste, {4 g} garam masala, {2 g} each of cumin and coriander, and cayenne to taste (start with a small pinch); stir 2 minutes until the paste darkens and the spices smell toasty instead of dusty.
+5. Add the crushed tomatoes and a pinch of sugar, bring to a gentle simmer (small lazy bubbles, not a boil), and cook 10 minutes, stirring occasionally so the bottom does not catch. Then blend the sauce smooth right in the pot with a stick blender — keep the blade fully under the surface so it does not spray, and tilt the pot if the sauce is shallow. Stop when no onion pieces remain; silky is the goal (or leave it rustic if you prefer some texture).
+6. Turn the heat down so the sauce is at a bare simmer and pour the cream straight in — no special technique needed; it goes in off a simmer and will not curdle. Stir, then add the chicken and all the board juices. Simmer gently 5 minutes so the flavors knit, and finish with a squeeze of lemon off the heat.
+7. Cool and pack: curry in dinner containers, rice separate, lids off until the food stops steaming, about 20 minutes, then lid and refrigerate. The naan stays in its bag until its night.
 
 ## Weeknight
 
-- Microwave curry and rice. Naan into the pizza oven (or on the grill or toaster oven) 60 to 90 seconds until blistered; butter it while hot. Cilantro over the curry.
+- Microwave the curry and rice 2 to 3 minutes until steaming, stirring the curry once halfway through.
+- Naan into the pizza oven 60 to 90 seconds until puffed and blistered with dark spots (the grill or a toaster oven works too, a few minutes a side); swipe it with butter while it is hot. Cilantro leaves over the curry.
 
 ## Notes
 

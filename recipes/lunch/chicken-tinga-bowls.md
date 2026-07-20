@@ -39,16 +39,18 @@ Chicken thighs braised in a smoky chipotle-tomato sauce, shredded back into the 
 
 ## Sunday
 
-1. Quick-pickle first so it has time: slice the red onion thin, cover with a hot mix of half red wine vinegar and half water plus a spoon of sugar and a big pinch of salt. Jar it, fridge it.
-2. Slice the yellow onions and soften in olive oil in a wide pot, 8 minutes. Add garlic, oregano, cumin, and a bay leaf; one minute more.
-3. Add crushed tomatoes, the chopped chipotles with their adobo, stock, and {5 g} salt. Nestle in the thighs, cover, and simmer gently 30 to 35 minutes until the chicken pulls apart.
-4. While it braises: cook the rice, then fold in the zest and juice of 2 limes and most of the chopped cilantro. Warm the beans with a little salt and cumin.
-5. Shred the chicken with two forks right in the pot and simmer uncovered 5 minutes so the sauce clings.
-6. Pack: rice and beans on one side, a generous ladle of tinga on the other, pickled onion and feta in a corner. Cool uncovered before lidding.
+1. Quick-pickled onion first, so it gets the longest soak: peel the red onion, halve it top to bottom, and slice it into thin half-moons. Pile the slices into a jar or small container with a lid. In a small saucepan, heat {120 g} red wine vinegar, {120 g} water, {15 g} sugar, and a big pinch of salt over medium heat, stirring, until the sugar dissolves, about 2 minutes — steaming is enough, it does not need to boil. Pour the hot brine over the onion, press the slices down so they are covered, lid the jar, and refrigerate. The onion turns bright pink and lightly pickled by packing time.
+2. Prep for the braise: peel and slice the yellow onions thin, and mince the garlic. Open the can of chipotles in adobo — these are smoked jalapeños packed in a tangy spiced tomato sauce, sold in small cans in the Mexican or international aisle. Fish out 3 to 4 chiles, chop them fine, and keep every bit of the sauce (the adobo) from the can. Scrape the unused chiles into a zip bag, press it flat, and freeze for next time.
+3. Build the sauce: set a wide pot that has a lid over medium heat with a glug of olive oil. Add the sliced onions and cook, stirring now and then, about 8 minutes, until soft and translucent but not browned. Add the garlic, a big pinch each of oregano and cumin, and a bay leaf, and stir for 1 minute, until it smells fragrant.
+4. Braise the chicken (braising means cooking it gently in liquid until it turns tender): add the crushed tomatoes, the chopped chipotles with all their adobo, the chicken stock, and {5 g} salt, and stir. Nestle the chicken thighs down into the sauce so they are mostly covered. Bring to a gentle simmer — small bubbles around the edges, not a rolling boil — then cover, turn the heat to low, and cook 30 to 35 minutes. It is done when a thigh pulls apart easily with two forks; if it still resists, cover and give it 10 more minutes.
+5. While the chicken braises, cook the rice: put {465 g} jasmine rice in a strainer and rinse under cold water for about 30 seconds. Rice cooker: rice plus {580 g} water, press start. Pot: rice and {580 g} water in a lidded pot, bring to a boil over high heat, then cover, turn the heat to its lowest setting, and cook 15 minutes; turn off the heat and leave it covered 10 more minutes without lifting the lid. While the rice cooks, zest 2 of the limes (grate just the thin colored outer layer of peel on a fine grater, stopping before the bitter white layer underneath), juice those 2, chop the cilantro, and cut the last lime into six wedges. When the rice is done, fold in the zest, the juice, and most of the cilantro.
+6. Warm the beans: drain and rinse the black beans, then heat them in a small saucepan over medium-low heat with a splash of water, a pinch of salt, and a pinch of cumin, about 5 minutes, until steaming.
+7. Shred the chicken right in the pot: pull each thigh apart with two forks — hold it steady with one, drag shreds off with the other — until it is all in rough shreds. Stir the shreds through the sauce and simmer uncovered over medium heat about 5 minutes, stirring, until the sauce thickens and clings to the meat instead of pooling around it. That clinging sauce is what keeps the chicken from drying out all week.
+8. Pack six containers: rice and beans on one side, a generous ladle of tinga on the other, pickled onion and crumbled feta in a corner, and a lime wedge tucked into each. Leave the lids off until the food stops steaming, about 20 minutes, then lid and refrigerate. The avocados stay whole on the counter — take one with you and cut it fresh at lunch, since cut avocado browns overnight.
 
 ## Weeknight
 
-- Microwave 2 to 3 minutes. Squeeze the lime wedge over after heating, and add avocado at school if you brought one whole.
+- Microwave 2 to 3 minutes, until hot in the middle. Squeeze the lime wedge over after heating, and if you brought a whole avocado, halve it around the pit, twist the halves apart, and spoon it out over the top.
 
 ## Notes
 
