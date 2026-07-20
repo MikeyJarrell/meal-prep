@@ -4,7 +4,7 @@ meal: dinner
 serves: 6
 good_cold: no
 weeknight: 15 minutes — sear the bulgogi and fry eggs on the flat top, assemble over rice
-sunday_active: 60 minutes
+sunday_active: 45 minutes
 calories: about 740 per serving (rough estimate)
 protein: about 45 g per serving (rough estimate)
 tags: korean, beef, flat top
@@ -14,7 +14,7 @@ All the banchan — sesame spinach, sweet carrots, pickled cucumber, kimchi — 
 
 ## Ingredients
 
-- 2 lb | flank steak | meat | Costco two-packs; freeze the twin
+- 2 lb | shaved beef top round (shabu-shabu) | meat | pre-shaved at Costco; flank steak sliced thin is the fallback
 - 8 cloves | garlic | produce
 - 2 oz | fresh ginger | produce
 - 1 | apples | produce | grated into the marinade, standing in for Korean pear
@@ -39,18 +39,18 @@ All the banchan — sesame spinach, sweet carrots, pickled cucumber, kimchi — 
 
 ## Sunday
 
-1. Freeze the flank 30 minutes and slice paper-thin across the grain. Marinade: 6 tablespoons soy, 3 tablespoons brown sugar, 2 tablespoons sesame oil, the grated apple, garlic, ginger, black pepper. The beef sits in this until its night — flavor deepens daily.
+1. Marinade: 6 tablespoons soy, 3 tablespoons brown sugar, 2 tablespoons sesame oil, the grated apple, garlic, ginger, black pepper. Toss the shaved beef in; it sits until its night — flavor deepens daily. (Starting from flank instead: freeze 30 minutes, slice paper-thin across the grain, then marinate.)
 2. Banchan line, one pan, no washing between: wilt the spinach, squeeze, dress with sesame oil, soy, garlic, sesame seeds. Sauté julienned carrots with a pinch of sugar and salt, 2 minutes. Quick-pickle the cucumbers in rice vinegar, sugar, salt.
 3. Sauce: 4 tablespoons gochujang, 1 tablespoon each sesame oil, honey, and rice vinegar, loosened with water to drizzle.
 4. Cook the rice; pack everything in its own container, banchan grouped on a fridge shelf like a little shop.
 
 ## Weeknight
 
-- Flat top ripping hot. Bulgogi in a single layer, undisturbed 60 seconds, flip, 30 more — in batches, never crowded. Eggs fried alongside in the rendered fat, edges lacy, yolks loose.
+- Flat top ripping hot. Drain the beef well — the thin shave sheds marinade, and wet beef steams. Single layer, 30 to 45 seconds total with one flip — in batches, never crowded. Eggs fried alongside with a splash of neutral oil (top round renders less fat than flank), edges lacy, yolks loose.
 - Microwave the rice (press some on the griddle 2 minutes if you want the crispy-bottom version). Bowls: rice, beef, banchan in wedges, kimchi, egg on top, sauce over, sesame seeds and green onions.
 
 ## Notes
 
-- The 90-second sear only works on paper-thin beef; the Sunday freezer-slice is where the dish is won.
+- The fast sear only works on paper-thin beef; the Costco shabu-shabu pack wins the dish in the meat case. Hand-sliced flank runs a little thicker — give it the old 60-plus-30-second treatment.
 - Kendra version: banchan-heavy bowl, half rice, one egg — bibimbap flexes lighter better than any dinner here.
 - Day 5 check: banchan and marinating beef are Korean fridge cuisine working exactly as designed; Friday is prime.
