@@ -16,11 +16,11 @@ Gochujang-glazed ground beef over rice with sesame spinach and quick-pickled cuc
 
 - 2 lb | ground beef | meat
 - 6 cloves | garlic | produce
-- 1 oz | fresh ginger | produce
-- 60 g | gochujang | pantry | about 3 tbsp; Costco usually has the bibigo tub; any Korean brand works
-- 465 g | jasmine rice | pantry | measured dry; about 2.5 cups
+- 30 g | fresh ginger | produce
+- 60 g | gochujang | pantry | Costco usually has the bibigo tub; any Korean brand works
+- 465 g | jasmine rice | pantry | measured dry
 - 6 | persian cucumbers | produce
-- 10 oz | baby spinach | produce | the 1-pound box; the rest goes in eggs or smoothies
+- 285 g | baby spinach | produce | the 1-pound box; the rest goes in eggs or smoothies
 - 1 bunch | green onions | produce
 
 ### Pantry staples
@@ -34,10 +34,10 @@ Gochujang-glazed ground beef over rice with sesame spinach and quick-pickled cuc
 
 ## Sunday
 
-1. Pickles first: slice cucumbers into thin coins, toss with a hot mix of rice vinegar, water, sugar, and salt. Jar and fridge.
+1. Pickles first so they have time: slice cucumbers into thin coins and jar them. Heat {180 g} rice vinegar, {90 g} water, {40 g} sugar, and {8 g} salt until the sugar dissolves, pour over, lid on, fridge.
 2. Cook the rice.
-3. Sesame spinach: wilt the spinach in batches in a hot pan with a film of neutral oil, then squeeze dry and dress with sesame oil, a grated garlic clove, soy, and sesame seeds. It packs down to almost nothing and tastes like more.
-4. Brown the beef hard in a wide pan, breaking it up. Pour off excess fat if there is a lot. Add garlic and ginger for one minute, then a sauce of {90 g / 5 tbsp} soy, {42 g / 3 tbsp} brown sugar, {60 g / 3 tbsp} gochujang, and {14 g / 1 tbsp} sesame oil. Simmer until it glazes, 3 minutes.
+3. Sesame spinach: wilt the spinach in batches in a hot pan with a film of neutral oil, then squeeze dry and dress with {14 g} sesame oil, {12 g} soy sauce, a grated garlic clove, and sesame seeds. It packs down to almost nothing and tastes like more.
+4. Brown the beef hard in a wide pan, breaking it up. Pour off excess fat if there is a lot. Add garlic and ginger for one minute, then a sauce of {90 g} soy, {42 g} brown sugar, {60 g} gochujang, and {14 g} sesame oil. Simmer until it glazes, 3 minutes.
 5. Pack: rice, beef with its glaze, spinach beside it, pickles in a corner, green onions and sesame seeds over the top. Cool before lidding.
 
 ## Weeknight

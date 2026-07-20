@@ -18,11 +18,11 @@ Ten burritos, wrapped and frozen on Sunday. Three rules keep a frozen burrito fr
 - 1 lb | breakfast sausage | meat
 - 0.75 lb | thick-cut bacon | meat | half a Kirkland pack; the rest keeps
 - 1.5 lb | russet potatoes | produce | two big ones
-- 10 oz | sharp cheddar | dairy-eggs | Tillamook loaf; grate it yourself — bagged shreds are coated and melt badly
-- 2 cans | diced green chiles (4-ounce can) | pantry
+- 285 g | sharp cheddar | dairy-eggs | Tillamook loaf; grate it yourself — bagged shreds are coated and melt badly
+- 2 cans | diced green chiles (115 g can) | pantry
 - 1 | yellow onions | produce
 - 1 bunch | green onions | produce
-- 10 | burrito-size flour tortillas | bakery | 10-inch; they need to close around a full cup of filling
+- 10 | burrito-size flour tortillas | bakery | 10-inch; they need to close around 250 g of filling
 - 10 | bananas | produce | the standing sidekick
 - 2 lb | fresh berries | produce | strawberries or blueberries, whatever looks best this week
 
@@ -41,7 +41,7 @@ Ten burritos, wrapped and frozen on Sunday. Three rules keep a frozen burrito fr
 3. In the sausage fat, sweat the diced yellow onion with both cans of green chiles until soft, about 5 minutes.
 4. Soft-scramble the eggs: low heat, plenty of butter, season, and pull them a shade before you would normally — glossy, not set. Fold in the onion-chile mixture and the sliced green onions.
 5. Cool everything to room temperature spread out on sheet pans, about 15 minutes. Warm filling steams the tortilla into mush, so wait it out. Meanwhile warm each tortilla 10 seconds per side on the flat top so it rolls without cracking.
-6. Assembly line: a handful of cheddar first (it glues to the warm-ish eggs), then eggs, potatoes, and meat — five burritos with bacon, five with sausage. About a cup of filling each. Roll tight with the ends tucked.
+6. Assembly line: a handful of cheddar first (it glues to the warm-ish eggs), then eggs, potatoes, and meat — five burritos with bacon, five with sausage. About 250 g of filling each. Roll tight with the ends tucked.
 7. Wrap each in foil or parchment, label the two camps, freeze flat on a sheet pan, then pile into a bin or bag.
 
 ## Weeknight

@@ -15,10 +15,10 @@ A bún-style bowl: rice noodles, herbs, cucumber, pickled carrot, and thin-slice
 ## Ingredients
 
 - 2.5 lb | pork shoulder | meat | from the Costco two-pack; freeze the rest for a braise week
-- 3 stalks | lemongrass | other-store | or 3 tablespoons lemongrass paste from the tube
+- 3 stalks | lemongrass | other-store | or about 45 g of lemongrass paste from the tube
 - 2 | shallots | produce
 - 8 cloves | garlic | produce | 6 for the marinade, 2 for the nuoc cham
-- 16 oz | rice noodles | other-store | the vermicelli-width ones
+- 450 g | rice noodles | other-store | the vermicelli-width ones
 - 6 | persian cucumbers | produce
 - 3 | carrots | produce
 - 1 head | butter lettuce | produce
@@ -26,7 +26,7 @@ A bún-style bowl: rice noodles, herbs, cucumber, pickled carrot, and thin-slice
 - 1 bunch | cilantro | produce
 - 5 | limes | produce
 - 1 | jalapeños | produce
-- 75 g | roasted peanuts | pantry | about 0.5 cup
+- 75 g | roasted peanuts | pantry
 
 ### Pantry staples
 
@@ -39,10 +39,10 @@ A bún-style bowl: rice noodles, herbs, cucumber, pickled carrot, and thin-slice
 ## Sunday
 
 1. Freeze the pork 30 to 45 minutes, then slice it as thin as you can across the grain — quarter-inch slices that will char fast. This is the one knife job of the day that rewards patience.
-2. Marinade: minced lemongrass (tender cores only), shallots, {6} garlic cloves, {54 g / 3 tbsp} fish sauce, {42 g / 3 tbsp} brown sugar, {27 g / 2 tbsp} neutral oil, lots of black pepper. Massage into the pork; give it at least 30 minutes while you do everything else.
+2. Marinade: minced lemongrass (tender cores only), shallots, {6} garlic cloves, {54 g} fish sauce, {42 g} brown sugar, {27 g} neutral oil, lots of black pepper. Massage into the pork; give it at least 30 minutes while you do everything else.
 3. Pickle the carrots: julienne, then a hot mix of rice vinegar, water, sugar, salt. Jar it.
-4. Nuoc cham: {108 g / 6 tbsp} fish sauce, juice of {4} limes, {50 g / 4 tbsp} sugar, {180 g / 0.75 cup} water, {2} grated garlic cloves, minced jalapeño. Taste — it should snap. Portion into six small jars or sauce cups.
-5. Cook the noodles per the package, rinse cold, and toss with a teaspoon of neutral oil so they stay loose.
+4. Nuoc cham: {108 g} fish sauce, juice of {4} limes, {50 g} sugar, {180 g} water, {2} grated garlic cloves, minced jalapeño. Taste — it should snap. Portion into six small jars or sauce cups.
+5. Cook the noodles per the package, rinse cold, and toss with a small splash of neutral oil so they stay loose.
 6. Grill or flat-top the pork in a single layer over the hottest heat you have, 2 minutes a side, in batches. Crowding steams it; char is the whole point.
 7. Pack: noodles on the bottom, then a leafy handful of torn lettuce, cucumber spears, pickled carrot, pork, herbs on top, peanuts in a corner or a twist of foil, sauce jar on the side.
 

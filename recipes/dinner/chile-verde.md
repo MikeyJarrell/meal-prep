@@ -22,8 +22,8 @@ Pork shoulder braised in a salsa of tomatillos, poblanos, and jalapeños that yo
 - 2 | yellow onions | produce
 - 8 cloves | garlic | produce
 - 1 bunch | cilantro | produce | stems into the blender, leaves for serving
-- 2 cups | chicken stock | pantry
-- 370 g | jasmine rice | pantry | measured dry; about 2 cups
+- 480 g | chicken stock | pantry
+- 370 g | jasmine rice | pantry | measured dry
 - 2 cans | black beans | pantry
 - 12 | corn tortillas | pantry
 - 2 | limes | produce
@@ -38,7 +38,7 @@ Pork shoulder braised in a salsa of tomatillos, poblanos, and jalapeños that yo
 ## Sunday
 
 1. Broiler high (or the grill, already lit): tomatillos, poblanos, jalapeños, and onion halves on a sheet pan until blackened in spots, turning once, 10 to 12 minutes. Steam the poblanos in a covered bowl 10 minutes, then slip off the worst of the skins.
-2. Blend the charred vegetables with garlic, cilantro stems, and a teaspoon of salt into a coarse salsa.
+2. Blend the charred vegetables with garlic, cilantro stems, and {5 g} salt into a coarse salsa.
 3. Salt 2-inch pork chunks and brown them in batches in the dutch oven. Pour in the salsa and stock, add cumin and oregano, scrape the bottom.
 4. Lid cracked, 300°F oven, about 2.5 hours until spoon-tender. Skim, shred coarsely into the sauce, taste for salt and brighten with lime.
 5. Cook the rice; warm the beans. Pack dinner containers; freeze a third of the verde if it features once this week.

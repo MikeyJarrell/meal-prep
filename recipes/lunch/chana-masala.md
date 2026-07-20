@@ -17,12 +17,12 @@ Chickpeas simmered in a deeply browned onion-tomato masala, over cumin rice with
 - 4 cans | chickpeas | pantry
 - 3 | yellow onions | produce
 - 8 cloves | garlic | produce
-- 2 oz | fresh ginger | produce
-- 1 can | crushed tomatoes (28-ounce can) | pantry
-- 465 g | jasmine rice | pantry | measured dry, about 2.5 cups; basmati if you have it around
+- 55 g | fresh ginger | produce
+- 1 can | crushed tomatoes (800 g can) | pantry
+- 465 g | jasmine rice | pantry | measured dry; basmati if you have it around
 - 1 bunch | cilantro | produce
 - 2 | lemons | produce
-- 250 g | plain greek yogurt | dairy-eggs | about 1 cup
+- 250 g | plain greek yogurt | dairy-eggs
 - 1 | jalapeños | produce
 
 ### Pantry staples
@@ -36,10 +36,10 @@ Chickpeas simmered in a deeply browned onion-tomato masala, over cumin rice with
 ## Sunday
 
 1. The masala is an exercise in nerve: dice the onions fine and cook them in a generous pour of oil over medium-high, stirring, until genuinely brown — 15 to 18 minutes, darker than golden. This step is the recipe.
-2. Add grated garlic and ginger and the minced jalapeño; 2 minutes. Add {4 g / 2 tsp} ground cumin, {3.5 g / 2 tsp} coriander, {3 g / 1 tsp} turmeric, cayenne to taste; 30 seconds until fragrant.
+2. Add grated garlic and ginger and the minced jalapeño; 2 minutes. Add {4 g} ground cumin, {3.5 g} coriander, {3 g} turmeric, cayenne to taste; 30 seconds until fragrant.
 3. Crushed tomatoes with a pinch of sugar; cook until the oil separates at the edges, about 8 minutes.
-4. Chickpeas with about {240 g / 1 cup} of their can liquid. Simmer 15 minutes, mashing a few against the pot. Finish with {2 g / 1 tsp} garam masala and the juice of {1} lemon.
-5. Jeera rice: bloom {6 g / 1 tbsp} cumin seeds in oil until they crackle, then add the rice and water and cook as usual.
+4. Chickpeas with about {240 g} of their can liquid. Simmer 15 minutes, mashing a few against the pot. Finish with {2 g} garam masala and the juice of {1} lemon.
+5. Jeera rice: bloom {6 g} cumin seeds in oil until they crackle, then add the rice and water and cook as usual.
 6. Pack: rice, chana, cilantro on top, a lemon wedge in each, yogurt in six sauce cups.
 
 ## Weeknight

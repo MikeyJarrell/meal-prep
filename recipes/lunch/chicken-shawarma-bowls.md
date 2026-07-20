@@ -15,15 +15,15 @@ Yogurt-marinated thighs blasted on a hot grill until the edges char, sliced over
 ## Ingredients
 
 - 3 lb | boneless skinless chicken thighs | meat | the other half of the Kirkland pack
-- 250 g | plain greek yogurt | dairy-eggs | about 1 cup, from the big Costco tub
+- 250 g | plain greek yogurt | dairy-eggs | from the big Costco tub
 - 3 | lemons | produce
 - 8 cloves | garlic | produce
-- 465 g | jasmine rice | pantry | measured dry, about 2.5 cups; turmeric goes in the pot
+- 465 g | jasmine rice | pantry | measured dry; turmeric goes in the pot
 - 6 | persian cucumbers | produce
 - 4 | roma tomatoes | produce
 - 1 bunch | flat-leaf parsley | produce
 - 0.5 head | green cabbage | produce | for the quick pickle
-- 120 g | tahini | pantry | about 0.5 cup; Costco usually stocks a good jar
+- 120 g | tahini | pantry | Costco usually stocks a good jar
 
 ### Pantry staples
 
@@ -35,9 +35,9 @@ Yogurt-marinated thighs blasted on a hot grill until the edges char, sliced over
 
 ## Sunday
 
-1. Morning if you can, otherwise first thing in the cook: whisk yogurt with olive oil, juice of {1} lemon, grated garlic ({6} cloves), {4 g / 2 tsp} each of cumin and coriander, {4.5 g / 2 tsp} smoked paprika, {3 g / 1 tsp} turmeric, a big pinch of cinnamon, and a tablespoon of salt. Coat the thighs. Even 45 minutes helps; overnight is better.
+1. Morning if you can, otherwise first thing in the cook: whisk yogurt with olive oil, juice of {1} lemon, grated garlic ({6} cloves), {4 g} each of cumin and coriander, {4.5 g} smoked paprika, {3 g} turmeric, a big pinch of cinnamon, and {15 g} salt. Coat the thighs. Even 45 minutes helps; overnight is better.
 2. Shred the cabbage and quick-pickle it: hot red wine vinegar, water, sugar, salt. Jar and fridge.
-3. Cook the rice with {3 g / 1 tsp} turmeric and a knob of butter in the water.
+3. Cook the rice with {3 g} turmeric and a knob of butter in the water.
 4. Grill the thighs over high heat until charred at the edges and 175°F inside, about 5 minutes a side. Rest, then slice into ribbons.
 5. Chop cucumbers, tomatoes, and parsley; dress with lemon juice, olive oil, and salt only if eating within 3 days — otherwise pack the salad undressed and add a lemon wedge to each container.
 6. Tahini sauce: whisk tahini with the remaining lemon juice, 2 grated garlic cloves, salt, and cold water until pourable. It seizes, then relaxes; keep whisking.

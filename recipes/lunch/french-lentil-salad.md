@@ -14,15 +14,15 @@ Firm little lentils with bacon, sweated shallots and carrots, a sharp mustard vi
 
 ## Ingredients
 
-- 385 g | french green lentils | other-store | about 2 cups; du Puy style — brown lentils work but go softer, so pull them 5 minutes earlier
+- 385 g | french green lentils | other-store | du Puy style; brown lentils work but go softer, so pull them 5 minutes earlier
 - 0.5 lb | thick-cut bacon | meat
 - 2 | shallots | produce
 - 2 | carrots | produce
 - 2 ribs | celery | produce
-- 6 oz | goat cheese | dairy-eggs | Costco sells a two-log pack
+- 170 g | goat cheese | dairy-eggs | Costco sells a two-log pack
 - 1 bunch | flat-leaf parsley | produce
-- 75 g | walnuts | pantry | about 0.75 cup; the Kirkland bag lasts a year of these
-- 5 oz | arugula | produce
+- 75 g | walnuts | pantry | the Kirkland bag lasts a year of these
+- 140 g | arugula | produce
 
 ### Pantry staples
 
@@ -35,9 +35,9 @@ Firm little lentils with bacon, sweated shallots and carrots, a sharp mustard vi
 ## Sunday
 
 1. Simmer the lentils with a bay leaf and a garlic clove if one is rolling around, 22 to 25 minutes — they should hold their shape with a slight bite. Salt in the last 5 minutes. Drain.
-2. Meanwhile cut the bacon into batons and render until crisp. Scoop out, and pour off all but a tablespoon of fat.
+2. Meanwhile cut the bacon into batons and render until crisp. Scoop out, and pour off all but a thin film of fat.
 3. In that fat: finely diced shallots, carrots, and celery, 5 minutes — softened but not browned.
-4. Vinaigrette in the bottom of the big bowl: {30 g / 2 tbsp} dijon, {45 g / 3 tbsp} sherry vinegar, {81 g / 6 tbsp} olive oil, salt, lots of black pepper.
+4. Vinaigrette in the bottom of the big bowl: {30 g} dijon, {45 g} sherry vinegar, {81 g} olive oil, salt, lots of black pepper.
 5. Fold in the warm lentils (warm legumes drink dressing), the vegetables, bacon, chopped parsley, and toasted walnuts. Taste — lentils absorb salt overnight, so it should taste slightly aggressive today.
 6. Pack six portions; crumble goat cheese over each and lay a handful of arugula on top without mixing.
 

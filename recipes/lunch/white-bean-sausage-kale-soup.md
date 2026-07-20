@@ -20,9 +20,9 @@ Italian sausage, cannellini beans, and lacinato kale in a parmesan-enriched brot
 - 3 | carrots | produce
 - 3 ribs | celery | produce
 - 6 cloves | garlic | produce
-- 8 cups | chicken stock | pantry | two quarts
+- 1920 g | chicken stock | pantry | two quart boxes
 - 1 bunch | lacinato kale | produce | stemmed and torn
-- 2 oz | parmigiano reggiano | dairy-eggs | plus the rind if you keep them — it goes in the pot
+- 55 g | parmigiano reggiano | dairy-eggs | plus the rind if you keep them — it goes in the pot
 - 1 | lemons | produce
 
 ### Pantry staples

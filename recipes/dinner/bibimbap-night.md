@@ -16,14 +16,14 @@ All the banchan — sesame spinach, sweet carrots, pickled cucumber, kimchi — 
 
 - 2 lb | shaved beef top round (shabu-shabu) | meat | pre-shaved at Costco; flank steak sliced thin is the fallback
 - 8 cloves | garlic | produce
-- 2 oz | fresh ginger | produce
+- 55 g | fresh ginger | produce
 - 1 | apples | produce | grated into the marinade, standing in for Korean pear
-- 555 g | jasmine rice | pantry | measured dry, about 3 cups; short-grain if you keep it
-- 10 oz | baby spinach | produce
+- 555 g | jasmine rice | pantry | measured dry; short-grain if you keep it
+- 285 g | baby spinach | produce
 - 4 | carrots | produce
 - 4 | persian cucumbers | produce
-- 16 oz | kimchi | dairy-eggs | the Jongga jar at Costco
-- 80 g | gochujang | pantry | about 4 tbsp
+- 450 g | kimchi | dairy-eggs | the Jongga jar at Costco
+- 80 g | gochujang | pantry
 - 6 | large eggs | dairy-eggs
 - 1 bunch | green onions | produce
 
@@ -39,10 +39,13 @@ All the banchan — sesame spinach, sweet carrots, pickled cucumber, kimchi — 
 
 ## Sunday
 
-1. Marinade: {108 g / 6 tbsp} soy, {42 g / 3 tbsp} brown sugar, {27 g / 2 tbsp} sesame oil, the grated apple, garlic, ginger, black pepper. Toss the shaved beef in; it sits until its night — flavor deepens daily. (Starting from flank instead: freeze 30 minutes, slice paper-thin across the grain, then marinate.)
-2. Banchan line, one pan, no washing between: wilt the spinach, squeeze, dress with sesame oil, soy, garlic, sesame seeds. Sauté julienned carrots with a pinch of sugar and salt, 2 minutes. Quick-pickle the cucumbers in rice vinegar, sugar, salt.
-3. Sauce: {80 g / 4 tbsp} gochujang, {14 g / 1 tbsp} sesame oil, {21 g / 1 tbsp} honey, {15 g / 1 tbsp} rice vinegar, loosened with water to drizzle.
-4. Cook the rice; pack everything in its own container, banchan grouped on a fridge shelf like a little shop.
+1. Marinade: {108 g} soy, {42 g} brown sugar, {27 g} sesame oil, the grated apple, garlic, ginger, black pepper. Toss the shaved beef in; it sits until its night — flavor deepens daily. (Starting from flank instead: freeze 30 minutes, slice paper-thin across the grain, then marinate.)
+2. Now the banchan — the little vegetable side dishes. There are three, and they stay separate the whole way: each one is cooked, seasoned, and boxed on its own, never mixed. The mixing happens in the bowl on the night you eat. One pan does all three, no washing between.
+3. Sesame spinach: wilt the spinach in a hot pan with a film of neutral oil until it collapses, let it cool enough to handle, then squeeze it dry with your hands — really wring it out. Toss with {14 g} sesame oil, {12 g} soy sauce, one grated garlic clove, and a big pinch of sesame seeds. Box it.
+4. Sweet carrots: cut the carrots into matchsticks — slice thin diagonal planks, stack the planks, slice the stack into skinny sticks (that move is all "julienne" means). Sauté with a pinch each of sugar and salt, 2 minutes — just softened, still snappy. Box it.
+5. Pickled cucumbers: a quick pickle is just a vinegar soak — no canning, no equipment, crunchy in an hour. Slice the cucumbers into thin coins and put them in a jar. Heat {120 g} rice vinegar, {60 g} water, {25 g} sugar, and {5 g} salt until the sugar dissolves, pour it over the cucumbers, lid on, into the fridge.
+6. Sauce: {80 g} gochujang, {14 g} sesame oil, {21 g} honey, {15 g} rice vinegar, loosened with water to drizzle.
+7. Cook the rice; pack everything in its own container, banchan grouped on a fridge shelf like a little shop. (Kimchi is banchan number four; it arrives ready-made in its own jar.)
 
 ## Weeknight
 

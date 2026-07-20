@@ -15,14 +15,14 @@ Chicken thighs in a coconut red curry with peppers, zucchini, and basil, over ja
 ## Ingredients
 
 - 2.5 lb | boneless skinless chicken thighs | meat | cut into big bite-size pieces
-- 4 oz | thai red curry paste | other-store | Mae Ploy or Maesri; supermarket Thai Kitchen is meeker, use half again as much
+- 115 g | thai red curry paste | other-store | Mae Ploy or Maesri; supermarket Thai Kitchen is meeker, use half again as much
 - 3 cans | coconut milk | pantry | full fat, the Costco 6-pack
 - 2 | bell peppers | produce
 - 2 | zucchini | produce
 - 1 | yellow onions | produce
 - 1 bunch | basil | produce | thai basil if you spot it, and grab makrut lime leaves for the freezer while you are at that market
 - 2 | limes | produce
-- 465 g | jasmine rice | pantry | measured dry; about 2.5 cups
+- 465 g | jasmine rice | pantry | measured dry
 
 ### Pantry staples
 
@@ -33,7 +33,7 @@ Chicken thighs in a coconut red curry with peppers, zucchini, and basil, over ja
 ## Sunday
 
 1. Open the coconut cans without shaking; spoon the thick cream off the top of one into a wide hot pot. Fry it until the oil separates, then fry the curry paste in that split cream 2 to 3 minutes until it darkens and stops smelling raw.
-2. Chicken in, tossed to coat, 2 minutes. Then the rest of the coconut milk, {36 g / 2 tbsp} fish sauce, and {14 g / 1 tbsp} brown sugar. Simmer 12 minutes.
+2. Chicken in, tossed to coat, 2 minutes. Then the rest of the coconut milk, {36 g} fish sauce, and {14 g} brown sugar. Simmer 12 minutes.
 3. Add onion petals, pepper strips, and thick zucchini half-moons; simmer 4 minutes only — they should still argue back a little. Off heat: juice of 1 lime and most of the basil.
 4. Cook the rice. Cool both, pack in dinner-size containers, curry and rice separate.
 

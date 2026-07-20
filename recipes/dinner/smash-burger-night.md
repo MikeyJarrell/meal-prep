@@ -31,8 +31,8 @@ Sunday does the boring parts — portioned beef balls, burger sauce, toppings bo
 
 ## Sunday
 
-1. Portion the beef into twelve 4-ounce balls, no seasoning, no working the meat — just loose spheres on a parchment-lined container, stacked with parchment between layers.
-2. Burger sauce: {110 g / 0.5 cup} mayo, {34 g / 2 tbsp} ketchup, {15 g / 1 tbsp} mustard, a spoon of pickle brine, smoked paprika, black pepper. Jar it.
+1. Portion the beef into {12} balls of 115 g each, no seasoning, no working the meat — just loose spheres on a parchment-lined container, stacked with parchment between layers.
+2. Burger sauce: {110 g} mayo, {34 g} ketchup, {15 g} mustard, a spoon of pickle brine, smoked paprika, black pepper. Jar it.
 3. That's it. Twenty-five minutes including cleanup. This recipe exists so one dinner each week costs Sunday almost nothing.
 
 ## Weeknight

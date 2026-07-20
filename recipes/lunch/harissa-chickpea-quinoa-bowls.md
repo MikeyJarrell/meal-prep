@@ -15,16 +15,16 @@ Crisped harissa chickpeas and a sheet pan of deeply roasted vegetables over lemo
 ## Ingredients
 
 - 3 cans | chickpeas | pantry | from the Costco 8-pack
-- 4 oz | harissa | other-store | one small jar; brands run mild to scary, taste yours first
+- 115 g | harissa | other-store | one small jar; brands run mild to scary, taste yours first
 - 3 | zucchini | produce
 - 2 | bell peppers | produce
 - 2 | red onions | produce
-- 1 pint | cherry tomatoes | produce
-- 340 g | quinoa | pantry | measured dry, about 2 cups; the big Costco bag
+- 300 g | cherry tomatoes | produce
+- 340 g | quinoa | pantry | measured dry; the big Costco bag
 - 3 | lemons | produce
 - 1 bunch | flat-leaf parsley | produce
-- 6 oz | feta | dairy-eggs
-- 250 g | plain greek yogurt | dairy-eggs | about 1 cup
+- 170 g | feta | dairy-eggs
+- 250 g | plain greek yogurt | dairy-eggs
 - 2 cloves | garlic | produce
 
 ### Pantry staples
