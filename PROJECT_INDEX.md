@@ -1,6 +1,6 @@
 # PROJECT_INDEX — meal-prep
 
-last-reviewed: 2026-07-05
+last-reviewed: 2026-07-22
 
 | Workstream | Status | Notes |
 |---|---|---|
@@ -16,4 +16,5 @@ last-reviewed: 2026-07-05
 
 ## Change log
 
+- 2026-07-20 — Full recipe library rewrite for a first-time cook (technique terms explained in-line); all measured quantities converted to grams; added a servings scaler to the shopping-list app; bibimbap recipe refined (Costco pre-shaved shabu-shabu top round; field notes from cooking it).
 - 2026-07-05 — repo created: full library, app, docs, validator, Pages deployment.
