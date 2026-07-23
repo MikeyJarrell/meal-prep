@@ -24,4 +24,4 @@
 
 ## Current focus
 
-Built 2026-07-05. Live on GitHub Pages (URL in the README). Next milestone: the first full cook-day shakes out real-world quantity and timing corrections — expect recipe edits in the first few weeks.
+Live on GitHub Pages (URL in the README). Status and near-term plans: [PROJECT_INDEX.md](PROJECT_INDEX.md).
