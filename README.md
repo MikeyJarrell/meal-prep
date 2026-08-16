@@ -15,7 +15,7 @@ The library favors food that improves in the fridge — braises, curries, gumbo,
 | Path | What it is |
 |------|-----------|
 | [index.html](index.html) | The recipe picker and shopping-list generator |
-| [recipes/](recipes/) | One markdown file per recipe: 1 breakfast, 10 lunches, 10 dinners |
+| [recipes/](recipes/) | One markdown file per recipe: 1 breakfast, 10 lunches, 10 dinners ([format notes](recipes/README.md)) |
 | [recipes/manifest.json](recipes/manifest.json) | The list of recipe files the app loads |
 | [docs/sunday-cook-day.md](docs/sunday-cook-day.md) | Run-of-show for the cooking afternoon |
 | [docs/costco-run.md](docs/costco-run.md) | Standing staples, pack-size math, the non-Costco short list |
