@@ -1,6 +1,6 @@
 # PROJECT_INDEX — meal-prep
 
-last-reviewed: 2026-07-23
+last-reviewed: 2026-08-22
 
 | Workstream | Status | Notes |
 |---|---|---|
