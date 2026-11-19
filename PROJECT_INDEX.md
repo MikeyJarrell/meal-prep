@@ -15,5 +15,6 @@ last-reviewed: 2026-08-22
 
 ## Change log
 
+- 2026-11-03 — Crockpot and KitchenAid stand mixer added to the assumed kitchen (AGENTS.md): crockpot alternatives on the three 300°F oven braises so two braises can run at once; dough hook, paddle shredding, and slicer-shredder worked into six recipes.
 - 2026-07-20 — Full recipe library rewrite for a first-time cook (technique terms explained in-line); all measured quantities converted to grams; added a servings scaler to the shopping-list app; bibimbap recipe refined (Costco pre-shaved shabu-shabu top round; field notes from cooking it). First real cook-day happened this session — the bibimbap edits above are its result.
 - 2026-07-05 — repo created: full library, app, docs, validator, Pages deployment.
